@@ -74,16 +74,22 @@ namespace fre
     Vector Bootstrap :: AbnormRet(string ticker) // To be unit tested - with integration 
     {
         Vector AbnormReturn(T);
-        int start;
+        int start,end;
         start = (*MapPtr)[ticker].GetStartIndex();
+        end = (*MapPtr)[ticker].GetEndIndex();
+        
+        if(end - start != T)
+            return AbnormReturn;
+        
+        
         Vector R = (*MapPtr)[ticker].GetReturns();
         Vector Benchmark = (*MapPtr)["IWV"].GetReturns();
-        for(int i=0; i<T; i++)
+        for(int i = 0 ; i < T; i++)
         {
          //cout << "TIMEPERIOD " << i << endl;
          // cout << "start + i = " <<  start+i << "  " << R[start+1+i] << "  " << Benchmark[start+1+i] << endl;
-         AbnormReturn[i] = R[start+i] - Benchmark[start+i];
-         // cout << AbnormReturn[i] << endl;
+         AbnormReturn[i]  = R[i+start] - Benchmark[i+start];
+         // cout << AbnormReturn[i] << endl;cc
         }
         return AbnormReturn;
     }

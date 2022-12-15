@@ -16,24 +16,21 @@ namespace fre{
 
     int Stocks::SetDates()
 	{
-		cout<<" Found index";
 		auto itr = find(Date.begin(), Date.end(), earnings_date);
 
 		int index = std::distance(Date.begin(), itr);
 		
 		if(index + N >= (int)Adjusted_close.size())
 		{
-			cout<<" "<<index<<" ";
 			return -1;
 		}
 		else
 		{
 			start_date = Date[index - N];
 			end_date = Date[(index + N)];
-			
-			cout<<" start: "<<start_date<<" end: "<<end_date; 
-			start_index = index - N;
-			end_index = index + N;
+			SetStartIndex(index - N);
+			SetEndIndex(index + N);
+			cout<<"ticker "<<ticker<<" index: "<<index<<" start: "<<GetStartIndex()<<" end: "<<GetEndIndex()<<" N: "<<N<<endl;
 		}
 		return 1;
 	}

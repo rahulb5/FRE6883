@@ -26,6 +26,7 @@ namespace fre
             Matrix Avg_CAAR; //group x time   
     
         public:
+            Bootstrap() {};
             Bootstrap(Group* GroupPtr_, map<string, Stocks>* myMap_);
             ~Bootstrap(){}
             

@@ -64,6 +64,9 @@ namespace fre
         void SetACP(const Vector& ACP) { Adjusted_close = ACP; }
         void SetVol(const Vector& Vol) { volume = Vol; }
         void CalculateReturns();
+        void SetStartIndex(int N_) {start_index = N_;}
+        void SetEndIndex(int N_) {end_index = N_;}
+        
         
         int SetN(int N_);
         void CalculateAbnormalReturns(map<string, Stocks> &GlobalStockMap);
@@ -87,9 +90,9 @@ namespace fre
         string GetEarningsDate() { return earnings_date; }
         string GetStartDate() { return start_date;}
         string GetEndDate() { return end_date;}
-        int GetStartIndex() { return start_index; }
-        int GetEndIndex() { return end_index; }
-        int GetN() {return N; }
+        int GetStartIndex() const { return start_index; }
+        int GetEndIndex() const { return end_index; }
+        int GetN() const {return N; }
 	};
 
 

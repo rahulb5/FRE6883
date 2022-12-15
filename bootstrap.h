@@ -27,7 +27,7 @@ namespace fre
     
         public:
             Bootstrap() {};
-            Bootstrap(Group* GroupPtr_, map<string, Stocks>* myMap_);
+            Bootstrap(Group* GroupPtr_, map<string, Stocks>* myMap_, int n);
             ~Bootstrap(){}
             
             Vector Cal_AAR(const vector<string>& sample); // return AAR calculation across sample stocks (of 1 sample) for 2N timesteps (2N x 1)
@@ -37,6 +37,7 @@ namespace fre
             void SetMCN(int N_);
             void SetM(int M_);
             void RunBootstrap(); // return
+            void plotResults();
             
             String generateSample(int gr_n);
             // Vector VSQRT(const Vector &V);

@@ -1,104 +1,878 @@
+A Index: 95 End Index: 215
+
+AA Index: 76 End Index: 196
+
+AAL Index: 77 End Index: 197
+
+AAN Index: 79 End Index: 199
+
+AAON Index: 89 End Index: 209
+
 AAP Index: 100 End Index: 220
+
+AAPL Index: 82 End Index: 202
+
+AAT Index: 80 End Index: 200
+
+AAWW Index: 87 End Index: 207
+
+ABBV Index: 83 End Index: 203
+
+ABC Index: 86 End Index: 206
+
+ABCB Index: 80 End Index: 200
+
+ABCL Index: 90 End Index: 210
 
 ABG Index: 82 End Index: 202
 
+ABM Index: 112 End Index: 232
+
+ABMD Index: 87 End Index: 207
+
 ABNB Index: 85 End Index: 205
+
+ABR Index: 83 End Index: 203
+
+ABT Index: 76 End Index: 196
+
+ABUS Index: 87 End Index: 207
+
+ACA Index: 86 End Index: 206
+
+ACAD Index: 89 End Index: 209
+
+ACCD Index: 63 End Index: 183
+
+ACCO Index: 89 End Index: 209
+
+ACEL Index: 90 End Index: 210
+
+ACET Index: 91 End Index: 211
+
+ACGL Index: 81 End Index: 201
+
+ACHC Index: 81 End Index: 201
+
+ACI Index: 80 End Index: 200
+
+ACLS Index: 86 End Index: 206
+
+ACM Index: 89 End Index: 209
+
+ACMR Index: 88 End Index: 208
+
+ACN Index: 58 End Index: 178
+
+ACRE Index: 83 End Index: 203
+
+ACRS Index: 86 End Index: 206
+
+ACT Index: 84 End Index: 204
+
+ACVA Index: 91 End Index: 211
+
+ADBE Index: 54 End Index: 174
+
+ADC Index: 85 End Index: 205
+
+ADI Index: 96 End Index: 216
+
+ADM Index: 80 End Index: 200
+
+ADMA Index: 91 End Index: 211
 
 ADNT Index: 88 End Index: 208
 
+ADP Index: 81 End Index: 201
+
+ADPT Index: 86 End Index: 206
+
+ADSK Index: 101 End Index: 221
+
 ADT Index: 87 End Index: 207
+
+ADTN Index: 86 End Index: 206
+
+ADUS Index: 84 End Index: 204
+
+AEE Index: 87 End Index: 207
+
+AEIS Index: 86 End Index: 206
+
+AEL Index: 89 End Index: 209
 
 AEO Index: 110 End Index: 230
 
+AEP Index: 81 End Index: 201
+
+AERI Index: 87 End Index: 207
+
+AES Index: 87 End Index: 207
+
+AFCG Index: 90 End Index: 210
+
+AFG Index: 86 End Index: 206
+
+AFL Index: 84 End Index: 204
+
+AFRM Index: 102 End Index: 222
+
+AGCO Index: 82 End Index: 202
+
+AGEN Index: 90 End Index: 210
+
+AGIO Index: 87 End Index: 207
+
+AGL Index: 87 End Index: 207
+
+AGNC Index: 79 End Index: 199
+
+AGR Index: 80 End Index: 200
+
+AGTI Index: 90 End Index: 210
+
+AGYS Index: 80 End Index: 200
+
+AHCO Index: 90 End Index: 210
+
+AHH Index: 87 End Index: 207
+
+AI Index: 106 End Index: 226
+
+AIG Index: 89 End Index: 209
+
+AIMC Index: 82 End Index: 202
+
+AIN Index: 79 End Index: 199
+
+AIR Index: 77 End Index: 197
+
+AIRC Index: 82 End Index: 202
+
+AIT Index: 92 End Index: 212
+
+AIZ Index: 85 End Index: 205
+
+AJG Index: 82 End Index: 202
+
+AJRD Index: 84 End Index: 204
+
+AKAM Index: 90 End Index: 210
+
+AKR Index: 85 End Index: 205
+
+AKRO Index: 87 End Index: 207
+
+AKTS Index: 113 End Index: 233
+
+AL Index: 87 End Index: 207
+
+ALB Index: 86 End Index: 206
+
+ALBO Index: 94 End Index: 214
+
+ALE Index: 86 End Index: 206
+
+ALEC Index: 87 End Index: 207
+
+ALEX Index: 82 End Index: 202
+
+ALG Index: 86 End Index: 206
+
+ALGM Index: 82 End Index: 202
+
+ALGN Index: 81 End Index: 201
+
+ALGT Index: 86 End Index: 206
+
+ALHC Index: 87 End Index: 207
+
+ALK Index: 77 End Index: 197
+
+ALKS Index: 81 End Index: 201
+
+ALKT Index: 86 End Index: 206
+
+ALL Index: 86 End Index: 206
+
+ALLE Index: 82 End Index: 202
+
+ALLO Index: 90 End Index: 210
+
+ALLY Index: 75 End Index: 195
+
+ALNY Index: 82 End Index: 202
+
+ALRM Index: 90 End Index: 210
+
+ALRS Index: 81 End Index: 201
+
+ALSN Index: 86 End Index: 206
+
+ALTG Index: 90 End Index: 210
+
+ALTR Index: 87 End Index: 207
+
+ALX Index: 84 End Index: 204
+
+ALXO Index: 89 End Index: 209
+
+AM Index: 81 End Index: 201
+
+AMAL Index: 82 End Index: 202
+
+AMAT Index: 97 End Index: 217
+
+AMBA Index: 105 End Index: 225
+
 AMC Index: 87 End Index: 207
 
+AMCR Index: 96 End Index: 216
+
 AMCX Index: 88 End Index: 208
+
+AMD Index: 85 End Index: 205
+
+AME Index: 85 End Index: 205
+
+AMED Index: 81 End Index: 201
+
+AMG Index: 84 End Index: 204
+
+AMGN Index: 87 End Index: 207
+
+AMH Index: 87 End Index: 207
+
+AMK Index: 86 End Index: 206
+
+AMKR Index: 84 End Index: 204
+
+AMN Index: 87 End Index: 207
+
+AMOT Index: 86 End Index: 206
+
+AMP Index: 80 End Index: 200
+
+AMPH Index: 89 End Index: 209
+
+AMPL Index: 86 End Index: 206
+
+AMR Index: 89 End Index: 209
+
+AMRC Index: 84 End Index: 204
+
+AMRK Index: 105 End Index: 225
+
+AMRS Index: 90 End Index: 210
+
+AMRX Index: 88 End Index: 208
+
+AMSF Index: 82 End Index: 202
+
+AMSWA Index: 101 End Index: 221
+
+AMT Index: 82 End Index: 202
+
+AMTB Index: 76 End Index: 196
+
+AMWD Index: 105 End Index: 225
+
+AMWL Index: 87 End Index: 207
 
 AMZN Index: 82 End Index: 202
 
 AN Index: 77 End Index: 197
 
+ANAB Index: 89 End Index: 209
+
+ANDE Index: 85 End Index: 205
+
+ANET Index: 84 End Index: 204
+
 ANF Index: 102 End Index: 222
+
+ANGO Index: 70 End Index: 190
+
+ANIK Index: 86 End Index: 206
+
+ANIP Index: 89 End Index: 209
+
+ANSS Index: 86 End Index: 206
+
+AON Index: 83 End Index: 203
+
+AOS Index: 82 End Index: 202
+
+AOSL Index: 91 End Index: 211
+
+APA Index: 86 End Index: 206
+
+APAM Index: 85 End Index: 205
+
+APD Index: 87 End Index: 207
+
+APG Index: 87 End Index: 207
+
+APH Index: 81 End Index: 201
+
+APLE Index: 87 End Index: 207
+
+APLS Index: 89 End Index: 209
+
+APO Index: 87 End Index: 207
+
+APOG Index: 58 End Index: 178
+
+APP Index: 91 End Index: 211
+
+APPF Index: 82 End Index: 202
+
+APPN Index: 87 End Index: 207
+
+APPS Index: 89 End Index: 209
 
 APTV Index: 87 End Index: 207
 
+AQUA Index: 85 End Index: 205
+
+AR Index: 81 End Index: 201
+
+ARCB Index: 83 End Index: 203
+
+ARCH Index: 82 End Index: 202
+
+ARCT Index: 90 End Index: 210
+
+ARE Index: 79 End Index: 199
+
+ARES Index: 82 End Index: 202
+
+ARGO Index: 89 End Index: 209
+
+ARI Index: 80 End Index: 200
+
 ARKO Index: 89 End Index: 209
+
+ARLO Index: 90 End Index: 210
 
 ARMK Index: 90 End Index: 210
 
+ARNC Index: 85 End Index: 205
+
+AROW Index: 81 End Index: 201
+
+ARQT Index: 87 End Index: 207
+
+ARR Index: 81 End Index: 201
+
+ARRY Index: 90 End Index: 210
+
+ARTNA Index: 86 End Index: 206
+
+ARVN Index: 87 End Index: 207
+
+ARW Index: 87 End Index: 207
+
+ARWR Index: 87 End Index: 207
+
+ASAN Index: 110 End Index: 230
+
+ASB Index: 77 End Index: 197
+
+ASC Index: 81 End Index: 201
+
+ASGN Index: 81 End Index: 201
+
+ASH Index: 80 End Index: 200
+
+ASIX Index: 88 End Index: 208
+
+ASLE Index: 89 End Index: 209
+
 ASO Index: 110 End Index: 230
+
+ASPN Index: 81 End Index: 201
+
+ASTE Index: 85 End Index: 205
+
+ATEC Index: 87 End Index: 207
+
+ATEN Index: 85 End Index: 205
 
 ATEX Index: 89 End Index: 209
 
 ATGE Index: 92 End Index: 212
 
+ATI Index: 87 End Index: 207
+
 ATNI Index: 81 End Index: 201
+
+ATO Index: 86 End Index: 206
+
+ATR Index: 82 End Index: 202
+
+ATRA Index: 89 End Index: 209
+
+ATRC Index: 85 End Index: 205
+
+ATSG Index: 87 End Index: 207
 
 ATUS Index: 86 End Index: 206
 
 ATVI Index: 84 End Index: 204
 
+AUPH Index: 87 End Index: 207
+
+AVA Index: 86 End Index: 206
+
+AVAV Index: 110 End Index: 230
+
+AVB Index: 81 End Index: 201
+
+AVD Index: 90 End Index: 210
+
+AVDX Index: 86 End Index: 206
+
+AVGO Index: 107 End Index: 227
+
+AVID Index: 85 End Index: 205
+
+AVIR Index: 89 End Index: 209
+
+AVNS Index: 90 End Index: 210
+
+AVO Index: 111 End Index: 231
+
+AVT Index: 91 End Index: 211
+
+AVTR Index: 82 End Index: 202
+
+AVXL Index: 90 End Index: 210
+
+AVY Index: 81 End Index: 201
+
+AWI Index: 80 End Index: 200
+
+AWK Index: 81 End Index: 201
+
+AWR Index: 84 End Index: 204
+
+AX Index: 87 End Index: 207
+
+AXGN Index: 86 End Index: 206
+
 AXL Index: 88 End Index: 208
+
+AXNX Index: 84 End Index: 204
+
+AXON Index: 90 End Index: 210
+
+AXP Index: 78 End Index: 198
+
+AXS Index: 80 End Index: 200
+
+AXSM Index: 90 End Index: 210
+
+AXTA Index: 80 End Index: 200
+
+AXTI Index: 82 End Index: 202
+
+AYI Index: 63 End Index: 183
+
+AYX Index: 85 End Index: 205
+
+AZEK Index: 87 End Index: 207
+
+AZPN Index: 89 End Index: 209
+
+AZZ Index: 69 End Index: 189
+
+B Index: 83 End Index: 203
+
+BA Index: 81 End Index: 201
+
+BAC Index: 74 End Index: 194
+
+BAH Index: 83 End Index: 203
 
 BALY Index: 87 End Index: 207
 
+BANC Index: 77 End Index: 197
+
 BAND Index: 86 End Index: 206
 
+BANF Index: 77 End Index: 197
+
+BANR Index: 76 End Index: 196
+
 BATRK Index: 88 End Index: 208
+
+BAX Index: 82 End Index: 202
+
+BBBY Index: 62 End Index: 182
+
+BBIO Index: 87 End Index: 207
+
+BBSI Index: 86 End Index: 206
 
 BBY Index: 105 End Index: 225
 
 BC Index: 82 End Index: 202
 
+BCC Index: 84 End Index: 204
+
+BCML Index: 77 End Index: 197
+
+BCO Index: 86 End Index: 206
+
+BCOR Index: 89 End Index: 209
+
+BCPC Index: 83 End Index: 203
+
+BCRX Index: 87 End Index: 207
+
+BDC Index: 86 End Index: 206
+
+BDN Index: 79 End Index: 199
+
+BDX Index: 87 End Index: 207
+
+BE Index: 90 End Index: 210
+
+BEAM Index: 90 End Index: 210
+
+BECN Index: 87 End Index: 207
+
+BEN Index: 82 End Index: 202
+
+BERY Index: 86 End Index: 206
+
 BFAM Index: 85 End Index: 205
+
+BFC Index: 75 End Index: 195
+
+BFS Index: 87 End Index: 207
+
+BFST Index: 80 End Index: 200
+
+BG Index: 81 End Index: 201
+
+BGCP Index: 86 End Index: 206
+
+BGS Index: 87 End Index: 207
+
+BHB Index: 77 End Index: 197
+
+BHF Index: 87 End Index: 207
+
+BHLB Index: 76 End Index: 196
+
+BHR Index: 86 End Index: 206
+
+BHVN Index: 32766 End Index: -36046960
 
 BIG Index: 105 End Index: 225
 
+BIGC Index: 87 End Index: 207
+
+BIIB Index: 76 End Index: 196
+
+BILL Index: 97 End Index: 217
+
+BIO Index: 82 End Index: 202
+
+BJ Index: 97 End Index: 217
+
 BJRI Index: 77 End Index: 197
+
+BK Index: 73 End Index: 193
+
+BKD Index: 89 End Index: 209
 
 BKE Index: 98 End Index: 218
 
+BKH Index: 86 End Index: 206
+
+BKI Index: 87 End Index: 207
+
 BKNG Index: 86 End Index: 206
+
+BKR Index: 76 End Index: 196
+
+BKU Index: 77 End Index: 197
+
+BL Index: 87 End Index: 207
 
 BLD Index: 85 End Index: 205
 
+BLDE Index: 90 End Index: 210
+
+BLDR Index: 84 End Index: 204
+
+BLFS Index: 90 End Index: 210
+
+BLK Index: 73 End Index: 193
+
+BLKB Index: 85 End Index: 205
+
 BLMN Index: 83 End Index: 203
+
+BLNK Index: 89 End Index: 209
+
+BLUE Index: 86 End Index: 206
 
 BMBL Index: 91 End Index: 211
 
+BMI Index: 76 End Index: 196
+
+BMRC Index: 79 End Index: 199
+
+BMRN Index: 86 End Index: 206
+
+BMY Index: 81 End Index: 201
+
+BNGO Index: 87 End Index: 207
+
+BNL Index: 86 End Index: 206
+
+BOH Index: 79 End Index: 199
+
+BOKF Index: 81 End Index: 201
+
+BOOM Index: 87 End Index: 207
+
 BOOT Index: 81 End Index: 201
+
+BOX Index: 101 End Index: 221
+
+BPMC Index: 85 End Index: 205
+
+BPOP Index: 82 End Index: 202
+
+BR Index: 93 End Index: 213
+
+BRBR Index: 87 End Index: 207
+
+BRC Index: 107 End Index: 227
+
+BRKL Index: 81 End Index: 201
+
+BRKR Index: 86 End Index: 206
+
+BRMK Index: 89 End Index: 209
+
+BRO Index: 79 End Index: 199
+
+BRP Index: 90 End Index: 210
+
+BRX Index: 84 End Index: 204
+
+BRY Index: 86 End Index: 206
+
+BSIG Index: 82 End Index: 202
+
+BSRR Index: 79 End Index: 199
+
+BSX Index: 81 End Index: 201
+
+BSY Index: 90 End Index: 210
+
+BTAI Index: 90 End Index: 210
+
+BTRS Index: 90 End Index: 210
+
+BTU Index: 82 End Index: 202
 
 BURL Index: 102 End Index: 222
 
+BUSE Index: 80 End Index: 200
+
+BV Index: 87 End Index: 207
+
+BW Index: 89 End Index: 209
+
 BWA Index: 86 End Index: 206
+
+BWB Index: 82 End Index: 202
+
+BWXT Index: 89 End Index: 209
+
+BX Index: 77 End Index: 197
+
+BXC Index: 85 End Index: 205
+
+BXMT Index: 81 End Index: 201
+
+BXP Index: 80 End Index: 200
+
+BY Index: 82 End Index: 202
 
 BYD Index: 80 End Index: 200
 
+BYND Index: 87 End Index: 207
+
+BZH Index: 82 End Index: 202
+
+C Index: 73 End Index: 193
+
 CABO Index: 87 End Index: 207
+
+CAC Index: 80 End Index: 200
+
+CACC Index: 84 End Index: 204
+
+CACI Index: 91 End Index: 211
+
+CADE Index: 79 End Index: 199
+
+CAG Index: 72 End Index: 192
+
+CAH Index: 92 End Index: 212
 
 CAKE Index: 81 End Index: 201
 
 CAL Index: 100 End Index: 220
 
+CALM Index: 75 End Index: 195
+
+CALX Index: 79 End Index: 199
+
+CAR Index: 84 End Index: 204
+
+CARA Index: 89 End Index: 209
+
+CARE Index: 82 End Index: 202
+
 CARG Index: 89 End Index: 209
+
+CARR Index: 82 End Index: 202
 
 CARS Index: 86 End Index: 206
 
-CBRL Index: 32588 End Index: 1910231296
+CASH Index: 81 End Index: 201
+
+CASY Index: 110 End Index: 230
+
+CAT Index: 85 End Index: 205
+
+CATC Index: 75 End Index: 195
+
+CATY Index: 79 End Index: 199
+
+CB Index: 80 End Index: 200
+
+CBAN Index: 77 End Index: 197
+
+CBOE Index: 83 End Index: 203
+
+CBRE Index: 87 End Index: 207
+
+CBRL Index: 32766 End Index: -36046960
+
+CBSH Index: 77 End Index: 197
+
+CBT Index: 89 End Index: 209
+
+CBU Index: 79 End Index: 199
+
+CBZ Index: 82 End Index: 202
+
+CC Index: 82 End Index: 202
+
+CCBG Index: 80 End Index: 200
+
+CCCC Index: 87 End Index: 207
+
+CCI Index: 76 End Index: 196
+
+CCK Index: 76 End Index: 196
 
 CCL Index: 59 End Index: 179
+
+CCNE Index: 75 End Index: 195
 
 CCO Index: 90 End Index: 210
 
 CCOI Index: 87 End Index: 207
 
+CCRN Index: 86 End Index: 206
+
 CCS Index: 81 End Index: 201
 
+CDAY Index: 86 End Index: 206
+
+CDMO Index: 109 End Index: 229
+
+CDNA Index: 87 End Index: 207
+
+CDNS Index: 79 End Index: 199
+
+CDW Index: 86 End Index: 206
+
+CDXS Index: 87 End Index: 207
+
+CE Index: 82 End Index: 202
+
+CEG Index: 76 End Index: 196
+
+CEIX Index: 87 End Index: 207
+
+CELH Index: 90 End Index: 210
+
+CENT Index: 86 End Index: 206
+
+CENTA Index: 86 End Index: 206
+
+CENX Index: 90 End Index: 210
+
+CERE Index: 84 End Index: 204
+
+CERS Index: 87 End Index: 207
+
+CERT Index: 90 End Index: 210
+
+CEVA Index: 90 End Index: 210
+
+CF Index: 84 End Index: 204
+
+CFB Index: 74 End Index: 194
+
+CFFN Index: 81 End Index: 201
+
+CFG Index: 75 End Index: 195
+
+CFR Index: 82 End Index: 202
+
+CG Index: 82 End Index: 202
+
+CGEM Index: 91 End Index: 211
+
+CGNX Index: 85 End Index: 205
+
+CHCO Index: 77 End Index: 197
+
+CHCT Index: 85 End Index: 205
+
+CHD Index: 83 End Index: 203
+
 CHDN Index: 81 End Index: 201
+
+CHE Index: 81 End Index: 201
+
+CHEF Index: 81 End Index: 201
 
 CHGG Index: 87 End Index: 207
 
 CHH Index: 87 End Index: 207
+
+CHK Index: 85 End Index: 205
+
+CHPT Index: 105 End Index: 225
+
+CHRS Index: 87 End Index: 207
+
+CHRW Index: 81 End Index: 201
 
 CHS Index: 106 End Index: 226
 
@@ -106,65 +880,411 @@ CHTR Index: 83 End Index: 203
 
 CHUY Index: 87 End Index: 207
 
+CHX Index: 80 End Index: 200
+
+CI Index: 87 End Index: 207
+
+CIEN Index: 107 End Index: 227
+
+CIM Index: 87 End Index: 207
+
+CINF Index: 81 End Index: 201
+
+CIO Index: 87 End Index: 207
+
+CIR Index: 32766 End Index: -36046960
+
+CIVB Index: 82 End Index: 202
+
+CIVI Index: 86 End Index: 206
+
+CL Index: 83 End Index: 203
+
+CLBK Index: 81 End Index: 201
+
+CLDT Index: 86 End Index: 206
+
+CLDX Index: 89 End Index: 209
+
+CLF Index: 78 End Index: 198
+
+CLFD Index: 82 End Index: 202
+
+CLH Index: 86 End Index: 206
+
+CLR Index: 82 End Index: 202
+
+CLVT Index: 90 End Index: 210
+
+CLW Index: 85 End Index: 205
+
+CLX Index: 86 End Index: 206
+
+CMA Index: 76 End Index: 196
+
+CMC Index: 54 End Index: 174
+
+CMCO Index: 82 End Index: 202
+
 CMCSA Index: 82 End Index: 202
+
+CME Index: 81 End Index: 201
 
 CMG Index: 80 End Index: 200
 
+CMI Index: 85 End Index: 205
+
+CMP Index: 87 End Index: 207
+
+CMPR Index: 81 End Index: 201
+
+CMRE Index: 82 End Index: 202
+
+CMS Index: 82 End Index: 202
+
+CNA Index: 84 End Index: 204
+
+CNC Index: 80 End Index: 200
+
+CNDT Index: 85 End Index: 205
+
 CNK Index: 88 End Index: 208
+
+CNMD Index: 81 End Index: 201
+
+CNNE Index: 89 End Index: 209
+
+CNO Index: 84 End Index: 204
+
+CNOB Index: 82 End Index: 202
+
+CNP Index: 85 End Index: 205
+
+CNX Index: 82 End Index: 202
+
+CNXC Index: 60 End Index: 180
+
+CNXN Index: 87 End Index: 207
+
+COCO Index: 91 End Index: 211
+
+CODI Index: 86 End Index: 206
+
+COF Index: 77 End Index: 197
+
+COGT Index: 90 End Index: 210
+
+COHR Index: 101 End Index: 221
+
+COHU Index: 82 End Index: 202
+
+COIN Index: 90 End Index: 210
+
+COLB Index: 77 End Index: 197
+
+COLD Index: 87 End Index: 207
+
+COLL Index: 87 End Index: 207
 
 COLM Index: 81 End Index: 201
 
+COMM Index: 87 End Index: 207
+
+COMP Index: 94 End Index: 214
+
+COO Index: 106 End Index: 226
+
+COOP Index: 81 End Index: 201
+
+COP Index: 87 End Index: 207
+
+CORT Index: 86 End Index: 206
+
+COTY Index: 102 End Index: 222
+
+COUP Index: 109 End Index: 229
+
 COUR Index: 81 End Index: 201
+
+COWN Index: 86 End Index: 206
+
+CPA Index: 86 End Index: 206
+
+CPB Index: 107 End Index: 227
+
+CPE Index: 86 End Index: 206
+
+CPF Index: 81 End Index: 201
+
+CPK Index: 86 End Index: 206
 
 CPRI Index: 90 End Index: 210
 
+CPRT Index: 110 End Index: 230
+
+CPRX Index: 90 End Index: 210
+
+CPSI Index: 85 End Index: 205
+
+CPT Index: 82 End Index: 202
+
+CR Index: 79 End Index: 199
+
+CRAI Index: 87 End Index: 207
+
+CRC Index: 86 End Index: 206
+
 CRI Index: 83 End Index: 203
+
+CRK Index: 84 End Index: 204
+
+CRL Index: 86 End Index: 206
+
+CRM Index: 101 End Index: 221
+
+CRMT Index: 96 End Index: 216
+
+CRNC Index: 90 End Index: 210
+
+CRNX Index: 93 End Index: 213
 
 CROX Index: 87 End Index: 207
 
+CRSR Index: 87 End Index: 207
+
+CRUS Index: 85 End Index: 205
+
+CRWD Index: 105 End Index: 225
+
+CSCO Index: 96 End Index: 216
+
+CSGP Index: 80 End Index: 200
+
+CSGS Index: 86 End Index: 206
+
+CSII Index: 85 End Index: 205
+
+CSL Index: 81 End Index: 201
+
+CSR Index: 84 End Index: 204
+
+CSTL Index: 89 End Index: 209
+
+CSTM Index: 81 End Index: 201
+
+CSTR Index: 77 End Index: 197
+
+CSV Index: 81 End Index: 201
+
+CSWI Index: 88 End Index: 208
+
+CSX Index: 76 End Index: 196
+
+CTAS Index: 72 End Index: 192
+
+CTBI Index: 76 End Index: 196
+
+CTIC Index: 89 End Index: 209
+
+CTLT Index: 104 End Index: 224
+
+CTOS Index: 90 End Index: 210
+
+CTRA Index: 85 End Index: 205
+
+CTRE Index: 87 End Index: 207
+
+CTSH Index: 81 End Index: 201
+
+CTVA Index: 87 End Index: 207
+
+CUBE Index: 87 End Index: 207
+
+CUBI Index: 81 End Index: 201
+
+CUTR Index: 87 End Index: 207
+
+CUZ Index: 82 End Index: 202
+
+CVBF Index: 76 End Index: 196
+
 CVCO Index: 87 End Index: 207
+
+CVGW Index: 107 End Index: 227
+
+CVI Index: 84 End Index: 204
+
+CVLT Index: 80 End Index: 200
 
 CVNA Index: 87 End Index: 207
 
+CVS Index: 86 End Index: 206
+
+CVT Index: 87 End Index: 207
+
+CVX Index: 83 End Index: 203
+
+CW Index: 86 End Index: 206
+
+CWEN Index: 85 End Index: 205
+
 CWH Index: 85 End Index: 205
+
+CWK Index: 87 End Index: 207
+
+CWST Index: 82 End Index: 202
+
+CWT Index: 82 End Index: 202
+
+CXW Index: 85 End Index: 205
+
+CYH Index: 81 End Index: 201
+
+CYRX Index: 87 End Index: 207
+
+CYTK Index: 87 End Index: 207
 
 CZR Index: 85 End Index: 205
 
+D Index: 89 End Index: 209
+
+DAL Index: 71 End Index: 191
+
 DAN Index: 86 End Index: 206
+
+DAR Index: 90 End Index: 210
 
 DASH Index: 87 End Index: 207
 
 DBI Index: 106 End Index: 226
 
+DBX Index: 87 End Index: 207
+
+DCI Index: 106 End Index: 226
+
+DCO Index: 87 End Index: 207
+
+DCOM Index: 83 End Index: 203
+
+DCPH Index: 87 End Index: 207
+
+DD Index: 85 End Index: 205
+
+DDOG Index: 87 End Index: 207
+
 DDS Index: 92 End Index: 212
+
+DE Index: 98 End Index: 218
+
+DEA Index: 85 End Index: 205
 
 DECK Index: 82 End Index: 202
 
+DEI Index: 84 End Index: 204
+
+DELL Index: 102 End Index: 222
+
 DENN Index: 85 End Index: 205
+
+DFIN Index: 86 End Index: 206
+
+DFS Index: 76 End Index: 196
 
 DG Index: 102 End Index: 222
 
+DGII Index: 87 End Index: 207
+
+DGX Index: 77 End Index: 197
+
 DHI Index: 77 End Index: 197
 
+DHR Index: 77 End Index: 197
+
+DHT Index: 91 End Index: 211
+
 DIN Index: 90 End Index: 210
+
+DIOD Index: 87 End Index: 207
 
 DIS Index: 91 End Index: 211
 
 DISH Index: 86 End Index: 206
 
+DK Index: 87 End Index: 207
+
 DKNG Index: 88 End Index: 208
 
 DKS Index: 100 End Index: 220
 
+DLB Index: 90 End Index: 210
+
+DLR Index: 82 End Index: 202
+
 DLTR Index: 102 End Index: 222
+
+DM Index: 89 End Index: 209
+
+DNB Index: 87 End Index: 207
+
+DNLI Index: 89 End Index: 209
+
+DNOW Index: 86 End Index: 206
+
+DOC Index: 87 End Index: 207
+
+DOCN Index: 89 End Index: 209
+
+DOCU Index: 111 End Index: 231
+
+DOMO Index: 102 End Index: 222
+
+DOOR Index: 89 End Index: 209
 
 DORM Index: 79 End Index: 199
 
+DOV Index: 77 End Index: 197
+
+DOW Index: 77 End Index: 197
+
+DOX Index: 86 End Index: 206
+
 DPZ Index: 77 End Index: 197
+
+DRH Index: 86 End Index: 206
 
 DRI Index: 58 End Index: 178
 
+DRQ Index: 82 End Index: 202
+
+DRVN Index: 81 End Index: 201
+
+DSEY Index: 87 End Index: 207
+
+DT Index: 86 End Index: 206
+
+DTE Index: 82 End Index: 202
+
+DUK Index: 87 End Index: 207
+
+DV Index: 86 End Index: 206
+
+DVA Index: 84 End Index: 204
+
+DVAX Index: 87 End Index: 207
+
+DVN Index: 84 End Index: 204
+
+DXC Index: 86 End Index: 206
+
+DXCM Index: 82 End Index: 202
+
+DY Index: 101 End Index: 221
+
+DYN Index: 87 End Index: 207
+
 EA Index: 85 End Index: 205
+
+EAF Index: 88 End Index: 208
 
 EAT Index: 101 End Index: 221
 
@@ -172,61 +1292,465 @@ EB Index: 82 End Index: 202
 
 EBAY Index: 86 End Index: 206
 
+EBC Index: 82 End Index: 202
+
+EBS Index: 84 End Index: 204
+
+ECL Index: 80 End Index: 200
+
+ECOM Index: 90 End Index: 210
+
+ECPG Index: 86 End Index: 206
+
+ED Index: 87 End Index: 207
+
+EDIT Index: 86 End Index: 206
+
+EE Index: 21 End Index: 141
+
+EEFT Index: 81 End Index: 201
+
+EFC Index: 87 End Index: 207
+
+EFSC Index: 79 End Index: 199
+
+EFX Index: 76 End Index: 196
+
+EGBN Index: 76 End Index: 196
+
+EGHT Index: 81 End Index: 201
+
+EGLE Index: 87 End Index: 207
+
+EGP Index: 80 End Index: 200
+
+EGRX Index: 90 End Index: 210
+
+EGY Index: 91 End Index: 211
+
+EHC Index: 84 End Index: 204
+
+EIG Index: 82 End Index: 202
+
+EIGR Index: 87 End Index: 207
+
+EIX Index: 82 End Index: 202
+
+EL Index: 97 End Index: 217
+
+ELAN Index: 89 End Index: 209
+
+ELF Index: 86 End Index: 206
+
+ELS Index: 74 End Index: 194
+
+EME Index: 82 End Index: 202
+
+EMN Index: 82 End Index: 202
+
+EMR Index: 90 End Index: 210
+
+ENPH Index: 80 End Index: 200
+
+ENR Index: 89 End Index: 209
+
+ENS Index: 91 End Index: 211
+
+ENSG Index: 84 End Index: 204
+
+ENTA Index: 89 End Index: 209
+
+ENTG Index: 85 End Index: 205
+
+ENV Index: 87 End Index: 207
+
+ENVA Index: 82 End Index: 202
+
+EOG Index: 87 End Index: 207
+
+EOLS Index: 85 End Index: 205
+
+EPAC Index: 61 End Index: 181
+
+EPAM Index: 87 End Index: 207
+
+EPC Index: 87 End Index: 207
+
+EPR Index: 84 End Index: 204
+
+EPRT Index: 82 End Index: 202
+
+EQBK Index: 75 End Index: 195
+
+EQC Index: 84 End Index: 204
+
+EQH Index: 86 End Index: 206
+
+EQIX Index: 81 End Index: 201
+
+EQR Index: 80 End Index: 200
+
+EQT Index: 81 End Index: 201
+
+ERIE Index: 82 End Index: 202
+
+ES Index: 82 End Index: 202
+
+ESI Index: 81 End Index: 201
+
+ESNT Index: 88 End Index: 208
+
+ESPR Index: 85 End Index: 205
+
+ESRT Index: 81 End Index: 201
+
+ESS Index: 80 End Index: 200
+
+ESTC Index: 102 End Index: 222
+
+ESTE Index: 87 End Index: 207
+
+ETN Index: 85 End Index: 205
+
+ETR Index: 86 End Index: 206
+
+ETRN Index: 85 End Index: 205
+
 ETSY Index: 81 End Index: 201
+
+EVA Index: 86 End Index: 206
+
+EVBG Index: 90 End Index: 210
 
 EVC Index: 86 End Index: 206
 
+EVH Index: 85 End Index: 205
+
+EVOP Index: 84 End Index: 204
+
+EVR Index: 81 End Index: 201
+
 EVRI Index: 86 End Index: 206
+
+EVTC Index: 87 End Index: 207
+
+EW Index: 82 End Index: 202
+
+EWBC Index: 77 End Index: 197
+
+EXAS Index: 85 End Index: 205
+
+EXC Index: 86 End Index: 206
+
+EXEL Index: 90 End Index: 210
+
+EXLS Index: 82 End Index: 202
+
+EXP Index: 82 End Index: 202
+
+EXPD Index: 85 End Index: 205
 
 EXPE Index: 87 End Index: 207
 
+EXPI Index: 86 End Index: 206
+
+EXPO Index: 82 End Index: 202
+
+EXR Index: 85 End Index: 205
+
+EXTR Index: 81 End Index: 201
+
 EYE Index: 92 End Index: 212
+
+EZPW Index: 86 End Index: 206
 
 F Index: 81 End Index: 201
 
+FAF Index: 82 End Index: 202
+
+FANG Index: 84 End Index: 204
+
+FAST Index: 71 End Index: 191
+
+FATE Index: 86 End Index: 206
+
+FBC Index: 81 End Index: 201
+
+FBHS Index: 81 End Index: 201
+
+FBK Index: 74 End Index: 194
+
+FBMS Index: 81 End Index: 201
+
+FBNC Index: 81 End Index: 201
+
+FBP Index: 78 End Index: 198
+
+FC Index: 62 End Index: 182
+
+FCEL Index: 111 End Index: 231
+
+FCF Index: 80 End Index: 200
+
+FCFS Index: 82 End Index: 202
+
+FCN Index: 82 End Index: 202
+
+FCNCA Index: 82 End Index: 202
+
+FCPT Index: 80 End Index: 200
+
+FCX Index: 77 End Index: 197
+
+FDMT Index: 92 End Index: 212
+
+FDS Index: 58 End Index: 178
+
+FDX Index: 58 End Index: 178
+
+FE Index: 80 End Index: 200
+
+FELE Index: 80 End Index: 200
+
+FFBC Index: 77 End Index: 197
+
+FFIC Index: 80 End Index: 200
+
+FFIN Index: 77 End Index: 197
+
+FFIV Index: 79 End Index: 199
+
+FFWM Index: 80 End Index: 200
+
+FGEN Index: 89 End Index: 209
+
+FHB Index: 83 End Index: 203
+
+FHI Index: 82 End Index: 202
+
+FHN Index: 75 End Index: 195
+
+FIBK Index: 80 End Index: 200
+
+FICO Index: 86 End Index: 206
+
+FIS Index: 87 End Index: 207
+
+FISI Index: 82 End Index: 202
+
+FISV Index: 80 End Index: 200
+
+FITB Index: 77 End Index: 197
+
 FIVE Index: 106 End Index: 226
+
+FIVN Index: 82 End Index: 202
+
+FIX Index: 81 End Index: 201
+
+FIZZ Index: 111 End Index: 231
 
 FL Index: 98 End Index: 218
 
+FLGT Index: 87 End Index: 207
+
+FLIC Index: 82 End Index: 202
+
+FLO Index: 92 End Index: 212
+
+FLR Index: 88 End Index: 208
+
+FLS Index: 81 End Index: 201
+
+FLT Index: 86 End Index: 206
+
+FMAO Index: 77 End Index: 197
+
+FMBH Index: 82 End Index: 202
+
+FMC Index: 85 End Index: 205
+
+FMNB Index: 81 End Index: 201
+
+FN Index: 94 End Index: 214
+
+FNB Index: 76 End Index: 196
+
 FND Index: 87 End Index: 207
+
+FNF Index: 85 End Index: 205
+
+FNKO Index: 87 End Index: 207
+
+FOCS Index: 87 End Index: 207
+
+FOLD Index: 87 End Index: 207
+
+FORM Index: 81 End Index: 201
+
+FORR Index: 82 End Index: 202
+
+FOUR Index: 87 End Index: 207
 
 FOXA Index: 91 End Index: 211
 
 FOXF Index: 87 End Index: 207
 
+FPI Index: 80 End Index: 200
+
+FR Index: 76 End Index: 196
+
+FRC Index: 72 End Index: 192
+
 FRG Index: 87 End Index: 207
+
+FRME Index: 80 End Index: 200
+
+FRPT Index: 89 End Index: 209
+
+FRT Index: 87 End Index: 207
+
+FSBC Index: 79 End Index: 199
+
+FSLR Index: 82 End Index: 202
+
+FSLY Index: 86 End Index: 206
 
 FSR Index: 86 End Index: 206
 
+FSS Index: 81 End Index: 201
+
 FTDR Index: 87 End Index: 207
+
+FTNT Index: 86 End Index: 206
+
+FTV Index: 82 End Index: 202
 
 FUBO Index: 87 End Index: 207
 
+FUL Index: 57 End Index: 177
+
+FULC Index: 92 End Index: 212
+
+FULT Index: 75 End Index: 195
+
 FWONK Index: 88 End Index: 208
+
+FWRD Index: 81 End Index: 201
+
+G Index: 87 End Index: 207
+
+GABC Index: 79 End Index: 199
+
+GATX Index: 77 End Index: 197
+
+GBCI Index: 77 End Index: 197
+
+GBIO Index: 87 End Index: 207
+
+GBX Index: 69 End Index: 189
+
+GCMG Index: 90 End Index: 210
+
+GCO Index: 107 End Index: 227
+
+GD Index: 81 End Index: 201
+
+GDDY Index: 86 End Index: 206
 
 GDEN Index: 87 End Index: 207
 
+GDOT Index: 87 End Index: 207
+
+GDYN Index: 87 End Index: 207
+
+GE Index: 80 End Index: 200
+
+GEF Index: 106 End Index: 226
+
+GEO Index: 85 End Index: 205
+
+GERN Index: 92 End Index: 212
+
 GES Index: 101 End Index: 221
 
+GEVO Index: 89 End Index: 209
+
+GFF Index: 82 End Index: 202
+
+GGG Index: 81 End Index: 201
+
+GH Index: 87 End Index: 207
+
 GIII Index: 110 End Index: 230
+
+GILD Index: 85 End Index: 205
+
+GIS Index: 62 End Index: 182
+
+GKOS Index: 86 End Index: 206
+
+GL Index: 81 End Index: 201
+
+GLDD Index: 85 End Index: 205
+
+GLNG Index: 92 End Index: 212
+
+GLOB Index: 97 End Index: 217
+
+GLPI Index: 82 End Index: 202
+
+GLW Index: 80 End Index: 200
 
 GM Index: 80 End Index: 200
 
 GME Index: 110 End Index: 230
 
+GMED Index: 87 End Index: 207
+
+GMRE Index: 86 End Index: 206
+
+GMS Index: 107 End Index: 227
+
+GNK Index: 86 End Index: 206
+
+GNL Index: 87 End Index: 207
+
+GNRC Index: 86 End Index: 206
+
 GNTX Index: 78 End Index: 198
+
+GNTY Index: 74 End Index: 194
+
+GO Index: 90 End Index: 210
+
+GOEV Index: 89 End Index: 209
 
 GOGO Index: 88 End Index: 208
 
 GOLF Index: 87 End Index: 207
 
+GOOD Index: 84 End Index: 204
+
 GOOG Index: 80 End Index: 200
 
 GOOGL Index: 80 End Index: 200
 
+GOSS Index: 90 End Index: 210
+
 GPC Index: 81 End Index: 201
 
 GPI Index: 81 End Index: 201
+
+GPK Index: 80 End Index: 200
+
+GPMT Index: 89 End Index: 209
+
+GPN Index: 84 End Index: 204
+
+GPOR Index: 85 End Index: 205
+
+GPRE Index: 85 End Index: 205
 
 GPRO Index: 87 End Index: 207
 
@@ -236,73 +1760,547 @@ GRBK Index: 86 End Index: 206
 
 GRMN Index: 81 End Index: 201
 
+GRWG Index: 87 End Index: 207
+
+GS Index: 74 End Index: 194
+
 GSAT Index: 87 End Index: 207
+
+GSBC Index: 76 End Index: 196
+
+GSHD Index: 81 End Index: 201
 
 GT Index: 88 End Index: 208
 
+GTES Index: 88 End Index: 208
+
+GTLS Index: 83 End Index: 203
+
 GTN Index: 88 End Index: 208
+
+GTY Index: 81 End Index: 201
+
+GVA Index: 82 End Index: 202
+
+GWRE Index: 109 End Index: 229
+
+GWW Index: 83 End Index: 203
 
 H Index: 90 End Index: 210
 
+HA Index: 80 End Index: 200
+
+HAE Index: 91 End Index: 211
+
+HAFC Index: 80 End Index: 200
+
+HAIN Index: 102 End Index: 222
+
+HAL Index: 75 End Index: 195
+
+HALO Index: 90 End Index: 210
+
 HAS Index: 75 End Index: 195
+
+HASI Index: 87 End Index: 207
+
+HAYN Index: 82 End Index: 202
+
+HBAN Index: 77 End Index: 197
+
+HBCP Index: 80 End Index: 200
 
 HBI Index: 92 End Index: 212
 
+HBNC Index: 81 End Index: 201
+
+HCA Index: 78 End Index: 198
+
+HCAT Index: 87 End Index: 207
+
+HCC Index: 86 End Index: 206
+
+HCCI Index: 81 End Index: 201
+
+HCI Index: 89 End Index: 209
+
+HCKT Index: 90 End Index: 210
+
+HCSG Index: 76 End Index: 196
+
 HD Index: 95 End Index: 215
+
+HDSN Index: 86 End Index: 206
+
+HE Index: 89 End Index: 209
+
+HEES Index: 82 End Index: 202
+
+HEI Index: 104 End Index: 224
 
 HELE Index: 67 End Index: 187
 
+HES Index: 81 End Index: 201
+
+HFWA Index: 77 End Index: 197
+
 HGV Index: 90 End Index: 210
+
+HHC Index: 86 End Index: 206
+
+HI Index: 86 End Index: 206
 
 HIBB Index: 102 End Index: 222
 
+HIG Index: 82 End Index: 202
+
+HII Index: 87 End Index: 207
+
+HIMS Index: 89 End Index: 209
+
+HIW Index: 80 End Index: 200
+
+HL Index: 87 End Index: 207
+
+HLF Index: 85 End Index: 205
+
+HLI Index: 82 End Index: 202
+
+HLIO Index: 89 End Index: 209
+
+HLIT Index: 84 End Index: 204
+
+HLNE Index: 85 End Index: 205
+
 HLT Index: 81 End Index: 201
+
+HLTH Index: 91 End Index: 211
+
+HLX Index: 79 End Index: 199
+
+HMN Index: 87 End Index: 207
+
+HMST Index: 79 End Index: 199
 
 HOG Index: 82 End Index: 202
 
+HOLX Index: 81 End Index: 201
+
+HOMB Index: 77 End Index: 197
+
+HON Index: 82 End Index: 202
+
+HONE Index: 80 End Index: 200
+
+HOPE Index: 75 End Index: 195
+
+HP Index: 81 End Index: 201
+
+HPE Index: 105 End Index: 225
+
+HPP Index: 80 End Index: 200
+
+HPQ Index: 105 End Index: 225
+
+HQY Index: 109 End Index: 229
+
+HR Index: 90 End Index: 210
+
 HRB Index: 90 End Index: 210
+
+HRI Index: 77 End Index: 197
+
+HRL Index: 107 End Index: 227
+
+HRMY Index: 85 End Index: 205
+
+HRTX Index: 90 End Index: 210
+
+HSC Index: 85 End Index: 205
+
+HSIC Index: 85 End Index: 205
+
+HSII Index: 79 End Index: 199
+
+HSKA Index: 89 End Index: 209
+
+HST Index: 86 End Index: 206
+
+HSTM Index: 79 End Index: 199
+
+HSY Index: 82 End Index: 202
+
+HT Index: 86 End Index: 206
+
+HTBI Index: 81 End Index: 201
+
+HTBK Index: 82 End Index: 202
+
+HTH Index: 77 End Index: 197
+
+HTLD Index: 79 End Index: 199
+
+HTLF Index: 79 End Index: 199
+
+HTZ Index: 82 End Index: 202
+
+HUBB Index: 80 End Index: 200
+
+HUBG Index: 86 End Index: 206
+
+HUBS Index: 87 End Index: 207
+
+HUM Index: 81 End Index: 201
+
+HUN Index: 85 End Index: 205
+
+HURN Index: 82 End Index: 202
+
+HWC Index: 75 End Index: 195
+
+HWKN Index: 87 End Index: 207
+
+HWM Index: 87 End Index: 207
+
+HXL Index: 79 End Index: 199
+
+HYLN Index: 90 End Index: 210
+
+HZNP Index: 86 End Index: 206
 
 HZO Index: 82 End Index: 202
 
+IAA Index: 90 End Index: 210
+
 IAC Index: 90 End Index: 210
 
+IART Index: 81 End Index: 201
+
+IBCP Index: 80 End Index: 200
+
+IBKR Index: 75 End Index: 195
+
+IBM Index: 74 End Index: 194
+
 IBP Index: 87 End Index: 207
+
+IBTX Index: 79 End Index: 199
+
+ICE Index: 87 End Index: 207
+
+ICFI Index: 86 End Index: 206
+
+ICHR Index: 90 End Index: 210
+
+ICPT Index: 86 End Index: 206
+
+ICUI Index: 89 End Index: 209
+
+IDA Index: 87 End Index: 207
+
+IDCC Index: 87 End Index: 207
+
+IDXX Index: 85 End Index: 205
+
+IDYA Index: 94 End Index: 214
+
+IEX Index: 80 End Index: 200
+
+IFF Index: 89 End Index: 209
 
 IGT Index: 85 End Index: 205
 
 IHRT Index: 87 End Index: 207
 
+IIIV Index: 89 End Index: 209
+
+IIPR Index: 86 End Index: 206
+
+ILMN Index: 92 End Index: 212
+
+ILPT Index: 80 End Index: 200
+
 IMAX Index: 82 End Index: 202
+
+IMGN Index: 83 End Index: 203
+
+IMVT Index: 88 End Index: 208
+
+IMXI Index: 86 End Index: 206
+
+INBK Index: 76 End Index: 196
+
+INBX Index: 89 End Index: 209
+
+INCY Index: 85 End Index: 205
+
+INDB Index: 77 End Index: 197
+
+INFA Index: 81 End Index: 201
+
+INFN Index: 82 End Index: 202
+
+INGN Index: 87 End Index: 207
+
+INN Index: 85 End Index: 205
+
+INO Index: 90 End Index: 210
+
+INSG Index: 89 End Index: 209
+
+INSM Index: 87 End Index: 207
+
+INSP Index: 85 End Index: 205
+
+INST Index: 84 End Index: 204
+
+INSW Index: 90 End Index: 210
+
+INT Index: 82 End Index: 202
+
+INTC Index: 82 End Index: 202
+
+INTU Index: 100 End Index: 220
+
+INVA Index: 81 End Index: 201
+
+INVH Index: 81 End Index: 201
+
+IONS Index: 90 End Index: 210
+
+IOSP Index: 85 End Index: 205
+
+IOVA Index: 87 End Index: 207
+
+IP Index: 82 End Index: 202
+
+IPAR Index: 90 End Index: 210
 
 IPG Index: 77 End Index: 197
 
+IPGP Index: 85 End Index: 205
+
+IPI Index: 87 End Index: 207
+
+IQV Index: 77 End Index: 197
+
+IR Index: 86 End Index: 206
+
 IRBT Index: 88 End Index: 208
 
-IWV Index: 0 End Index: 355894912
+IRM Index: 87 End Index: 207
+
+IRT Index: 81 End Index: 201
+
+IRTC Index: 87 End Index: 207
+
+IRWD Index: 87 End Index: 207
+
+ISEE Index: 80 End Index: 200
+
+ISRG Index: 77 End Index: 197
+
+IT Index: 85 End Index: 205
+
+ITCI Index: 90 End Index: 210
+
+ITGR Index: 82 End Index: 202
+
+ITOS Index: 91 End Index: 211
+
+ITRI Index: 87 End Index: 207
+
+ITT Index: 87 End Index: 207
+
+ITW Index: 85 End Index: 205
+
+IVR Index: 87 End Index: 207
+
+IVZ Index: 81 End Index: 201
+
+IWV Index: 32542 End Index: -1772041727
+
+J Index: 84 End Index: 204
 
 JACK Index: 91 End Index: 211
 
+JAMF Index: 87 End Index: 207
+
+JAZZ Index: 86 End Index: 206
+
+JBGS Index: 85 End Index: 205
+
+JBHT Index: 75 End Index: 195
+
+JBL Index: 54 End Index: 174
+
+JBLU Index: 85 End Index: 205
+
+JBT Index: 81 End Index: 201
+
+JCI Index: 87 End Index: 207
+
+JEF Index: 60 End Index: 180
+
+JELD Index: 84 End Index: 204
+
+JHG Index: 82 End Index: 202
+
+JJSF Index: 85 End Index: 205
+
+JKHY Index: 95 End Index: 215
+
+JLL Index: 86 End Index: 206
+
+JNJ Index: 75 End Index: 195
+
+JNPR Index: 80 End Index: 200
+
+JPM Index: 72 End Index: 192
+
+JRVR Index: 84 End Index: 204
+
 JWN Index: 100 End Index: 220
+
+K Index: 87 End Index: 207
+
+KAI Index: 85 End Index: 205
+
+KALU Index: 79 End Index: 199
+
+KALV Index: 111 End Index: 231
+
+KAMN Index: 87 End Index: 207
+
+KAR Index: 85 End Index: 205
 
 KBH Index: 57 End Index: 177
 
+KBR Index: 85 End Index: 205
+
+KDP Index: 82 End Index: 202
+
+KELYA Index: 92 End Index: 212
+
+KEX Index: 82 End Index: 202
+
+KEY Index: 77 End Index: 197
+
+KEYS Index: 96 End Index: 216
+
+KFRC Index: 84 End Index: 204
+
+KFY Index: 110 End Index: 230
+
+KHC Index: 81 End Index: 201
+
+KIDS Index: 86 End Index: 206
+
+KIM Index: 82 End Index: 202
+
+KKR Index: 85 End Index: 205
+
+KLAC Index: 82 End Index: 202
+
+KLIC Index: 86 End Index: 206
+
+KMB Index: 80 End Index: 200
+
+KMI Index: 76 End Index: 196
+
+KMPR Index: 84 End Index: 204
+
+KMT Index: 84 End Index: 204
+
 KMX Index: 59 End Index: 179
+
+KN Index: 85 End Index: 205
+
+KNBE Index: 87 End Index: 207
+
+KNSA Index: 86 End Index: 206
+
+KNSL Index: 82 End Index: 202
+
+KNTE Index: 92 End Index: 212
+
+KNX Index: 76 End Index: 196
+
+KO Index: 80 End Index: 200
+
+KOD Index: 90 End Index: 210
+
+KOP Index: 87 End Index: 207
+
+KOS Index: 89 End Index: 209
+
+KPTI Index: 87 End Index: 207
+
+KR Index: 112 End Index: 232
+
+KRC Index: 81 End Index: 201
+
+KREF Index: 79 End Index: 199
+
+KRG Index: 85 End Index: 205
+
+KRNY Index: 82 End Index: 202
+
+KROS Index: 87 End Index: 207
+
+KRTX Index: 89 End Index: 209
+
+KRUS Index: 67 End Index: 187
+
+KRYS Index: 89 End Index: 209
 
 KSS Index: 97 End Index: 217
 
 KTB Index: 87 End Index: 207
 
+KTOS Index: 87 End Index: 207
+
+KURA Index: 86 End Index: 206
+
+KW Index: 86 End Index: 206
+
+KWR Index: 87 End Index: 207
+
+KYMR Index: 90 End Index: 210
+
 LAD Index: 76 End Index: 196
+
+LADR Index: 82 End Index: 202
+
+LAMR Index: 86 End Index: 206
+
+LANC Index: 102 End Index: 222
+
+LAND Index: 90 End Index: 210
+
+LASR Index: 87 End Index: 207
 
 LAUR Index: 87 End Index: 207
 
+LAZ Index: 82 End Index: 202
+
 LAZR Index: 89 End Index: 209
+
+LBAI Index: 82 End Index: 202
 
 LBRDK Index: 88 End Index: 208
 
+LBRT Index: 79 End Index: 199
+
+LC Index: 81 End Index: 201
+
 LCII Index: 85 End Index: 205
 
+LDOS Index: 85 End Index: 205
+
 LEA Index: 85 End Index: 205
+
+LECO Index: 82 End Index: 202
 
 LEG Index: 84 End Index: 204
 
@@ -310,253 +2308,1871 @@ LEN Index: 56 End Index: 176
 
 LESL Index: 88 End Index: 208
 
+LFUS Index: 85 End Index: 205
+
 LGIH Index: 85 End Index: 205
 
+LGND Index: 89 End Index: 209
+
+LH Index: 82 End Index: 202
+
+LHCG Index: 86 End Index: 206
+
+LHX Index: 82 End Index: 202
+
+LII Index: 82 End Index: 202
+
+LIN Index: 82 End Index: 202
+
+LIND Index: 84 End Index: 204
+
+LITE Index: 95 End Index: 215
+
+LIVN Index: 86 End Index: 206
+
+LKFN Index: 79 End Index: 199
+
 LKQ Index: 82 End Index: 202
+
+LLY Index: 87 End Index: 207
+
+LMAT Index: 82 End Index: 202
+
+LMND Index: 89 End Index: 209
+
+LMT Index: 75 End Index: 195
+
+LNC Index: 86 End Index: 206
+
+LNDC Index: 91 End Index: 211
+
+LNG Index: 87 End Index: 207
+
+LNN Index: 63 End Index: 183
+
+LNT Index: 87 End Index: 207
+
+LNTH Index: 87 End Index: 207
+
+LOB Index: 81 End Index: 201
 
 LOPE Index: 87 End Index: 207
 
 LOW Index: 96 End Index: 216
 
+LPI Index: 86 End Index: 206
+
+LPLA Index: 85 End Index: 205
+
+LPRO Index: 87 End Index: 207
+
+LPSN Index: 89 End Index: 209
+
+LPX Index: 90 End Index: 210
+
+LQDA Index: 92 End Index: 212
+
+LRCX Index: 81 End Index: 201
+
 LRN Index: 90 End Index: 210
+
+LSCC Index: 84 End Index: 204
+
+LSI Index: 86 End Index: 206
+
+LSTR Index: 76 End Index: 196
 
 LSXMK Index: 88 End Index: 208
 
+LTC Index: 82 End Index: 202
+
+LTHM Index: 85 End Index: 205
+
 LULU Index: 107 End Index: 227
+
+LUNG Index: 85 End Index: 205
+
+LUV Index: 82 End Index: 202
 
 LVS Index: 76 End Index: 196
 
+LW Index: 81 End Index: 201
+
+LXFR Index: 80 End Index: 200
+
+LXP Index: 87 End Index: 207
+
+LYB Index: 83 End Index: 203
+
+LYFT Index: 87 End Index: 207
+
 LYV Index: 87 End Index: 207
+
+LZ Index: 92 End Index: 212
 
 LZB Index: 100 End Index: 220
 
 M Index: 100 End Index: 220
 
+MA Index: 82 End Index: 202
+
+MAA Index: 81 End Index: 201
+
+MAC Index: 82 End Index: 202
+
+MAN Index: 75 End Index: 195
+
+MANH Index: 80 End Index: 200
+
 MAR Index: 85 End Index: 205
+
+MARA Index: 89 End Index: 209
+
+MAS Index: 82 End Index: 202
+
+MASI Index: 90 End Index: 210
+
+MASS Index: 90 End Index: 210
 
 MAT Index: 77 End Index: 197
 
+MATW Index: 82 End Index: 202
+
+MATX Index: 84 End Index: 204
+
+MAXR Index: 90 End Index: 210
+
+MBIN Index: 82 End Index: 202
+
 MBUU Index: 102 End Index: 222
 
+MBWM Index: 75 End Index: 195
+
+MC Index: 81 End Index: 201
+
+MCB Index: 77 End Index: 197
+
 MCD Index: 80 End Index: 200
+
+MCFT Index: 111 End Index: 231
+
+MCHP Index: 85 End Index: 205
+
+MCK Index: 86 End Index: 206
+
+MCO Index: 80 End Index: 200
+
+MCRB Index: 86 End Index: 206
 
 MCRI Index: 76 End Index: 196
 
 MCS Index: 86 End Index: 206
 
+MCY Index: 85 End Index: 205
+
+MD Index: 87 End Index: 207
+
+MDB Index: 106 End Index: 226
+
 MDC Index: 82 End Index: 202
 
+MDGL Index: 87 End Index: 207
+
+MDLZ Index: 80 End Index: 200
+
+MDRX Index: 87 End Index: 207
+
+MDT Index: 100 End Index: 220
+
+MDU Index: 87 End Index: 207
+
+MDXG Index: 85 End Index: 205
+
+MED Index: 86 End Index: 206
+
+MEDP Index: 79 End Index: 199
+
+MEG Index: 89 End Index: 209
+
+MEI Index: 107 End Index: 227
+
+MET Index: 86 End Index: 206
+
+MFA Index: 87 End Index: 207
+
+MGEE Index: 87 End Index: 207
+
+MGI Index: 88 End Index: 208
+
 MGM Index: 86 End Index: 206
+
+MGNX Index: 89 End Index: 209
+
+MGPI Index: 87 End Index: 207
+
+MGRC Index: 82 End Index: 202
+
+MGY Index: 85 End Index: 205
 
 MHK Index: 82 End Index: 202
 
 MHO Index: 81 End Index: 201
 
+MIDD Index: 87 End Index: 207
+
+MIRM Index: 87 End Index: 207
+
+MITK Index: 82 End Index: 202
+
+MKC Index: 62 End Index: 182
+
+MKL Index: 85 End Index: 205
+
+MKSI Index: 81 End Index: 201
+
+MKTX Index: 76 End Index: 196
+
+MLAB Index: 87 End Index: 207
+
+MLM Index: 82 End Index: 202
+
+MLNK Index: 90 End Index: 210
+
+MMC Index: 77 End Index: 197
+
+MMM Index: 80 End Index: 200
+
+MMS Index: 86 End Index: 206
+
+MMSI Index: 81 End Index: 201
+
+MNKD Index: 90 End Index: 210
+
+MNRL Index: 87 End Index: 207
+
 MNRO Index: 81 End Index: 201
 
+MNST Index: 87 End Index: 207
+
+MO Index: 82 End Index: 202
+
 MOD Index: 86 End Index: 206
+
+MODN Index: 90 End Index: 210
+
+MOFG Index: 82 End Index: 202
+
+MOH Index: 81 End Index: 201
+
+MORF Index: 86 End Index: 206
+
+MOS Index: 84 End Index: 204
+
+MOV Index: 102 End Index: 222
+
+MP Index: 87 End Index: 207
+
+MPB Index: 81 End Index: 201
+
+MPC Index: 85 End Index: 205
+
+MPW Index: 86 End Index: 206
+
+MPWR Index: 84 End Index: 204
+
+MRC Index: 89 End Index: 209
+
+MRCY Index: 85 End Index: 205
+
+MRK Index: 82 End Index: 202
+
+MRNA Index: 86 End Index: 206
+
+MRO Index: 86 End Index: 206
+
+MRSN Index: 89 End Index: 209
+
+MRTN Index: 74 End Index: 194
+
+MRTX Index: 86 End Index: 206
+
+MRVI Index: 87 End Index: 207
+
+MRVL Index: 102 End Index: 222
+
+MS Index: 72 End Index: 192
+
+MSA Index: 81 End Index: 201
+
+MSBI Index: 82 End Index: 202
+
+MSCI Index: 80 End Index: 200
+
+MSEX Index: 83 End Index: 203
+
+MSFT Index: 80 End Index: 200
 
 MSGE Index: 98 End Index: 218
 
 MSGS Index: 97 End Index: 217
 
+MSI Index: 87 End Index: 207
+
+MSM Index: 62 End Index: 182
+
+MSTR Index: 85 End Index: 205
+
+MTB Index: 76 End Index: 196
+
 MTCH Index: 85 End Index: 205
+
+MTD Index: 82 End Index: 202
+
+MTDR Index: 80 End Index: 200
+
+MTG Index: 86 End Index: 206
 
 MTH Index: 81 End Index: 201
 
-MTN Index: 32588 End Index: 1910231296
+MTN Index: 32766 End Index: -36046960
+
+MTRN Index: 86 End Index: 206
+
+MTSI Index: 82 End Index: 202
+
+MTW Index: 87 End Index: 207
+
+MTX Index: 82 End Index: 202
+
+MTZ Index: 87 End Index: 207
+
+MU Index: 63 End Index: 183
+
+MUR Index: 87 End Index: 207
 
 MUSA Index: 81 End Index: 201
 
+MVIS Index: 82 End Index: 202
+
+MWA Index: 87 End Index: 207
+
+MXL Index: 81 End Index: 201
+
+MYE Index: 85 End Index: 205
+
+MYGN Index: 87 End Index: 207
+
+MYRG Index: 81 End Index: 201
+
+NAPA Index: 32766 End Index: -36046960
+
+NARI Index: 86 End Index: 206
+
+NAT Index: 105 End Index: 225
+
+NATI Index: 82 End Index: 202
+
+NAVI Index: 80 End Index: 200
+
+NBHC Index: 75 End Index: 195
+
+NBIX Index: 87 End Index: 207
+
+NBR Index: 86 End Index: 206
+
+NBTB Index: 79 End Index: 199
+
 NCLH Index: 90 End Index: 210
+
+NCNO Index: 107 End Index: 227
+
+NCR Index: 81 End Index: 201
+
+NDAQ Index: 76 End Index: 196
+
+NDSN Index: 99 End Index: 219
+
+NEE Index: 78 End Index: 198
+
+NEM Index: 79 End Index: 199
+
+NEO Index: 90 End Index: 210
+
+NEOG Index: 80 End Index: 200
+
+NEWR Index: 87 End Index: 207
+
+NEX Index: 80 End Index: 200
+
+NFBK Index: 81 End Index: 201
+
+NFE Index: 86 End Index: 206
+
+NFG Index: 87 End Index: 207
 
 NFLX Index: 75 End Index: 195
 
+NG Index: 62 End Index: 182
+
+NGM Index: 87 End Index: 207
+
+NGVT Index: 85 End Index: 205
+
+NHI Index: 89 End Index: 209
+
+NI Index: 86 End Index: 206
+
+NJR Index: 87 End Index: 207
+
 NKE Index: 60 End Index: 180
+
+NKLA Index: 87 End Index: 207
+
+NKTR Index: 87 End Index: 207
+
+NKTX Index: 92 End Index: 212
+
+NLY Index: 81 End Index: 201
+
+NMIH Index: 85 End Index: 205
+
+NMRK Index: 83 End Index: 203
+
+NNN Index: 86 End Index: 206
+
+NNOX Index: 95 End Index: 215
+
+NOC Index: 82 End Index: 202
+
+NOG Index: 86 End Index: 206
+
+NOV Index: 81 End Index: 201
+
+NOVA Index: 81 End Index: 201
+
+NOVT Index: 90 End Index: 210
+
+NOW Index: 81 End Index: 201
+
+NPO Index: 85 End Index: 205
+
+NRDS Index: 87 End Index: 207
+
+NRG Index: 87 End Index: 207
+
+NSA Index: 86 End Index: 206
+
+NSC Index: 81 End Index: 201
+
+NSIT Index: 87 End Index: 207
+
+NSP Index: 84 End Index: 204
+
+NSSC Index: 104 End Index: 224
+
+NSTG Index: 87 End Index: 207
+
+NTAP Index: 101 End Index: 221
+
+NTB Index: 79 End Index: 199
+
+NTCT Index: 87 End Index: 207
+
+NTGR Index: 81 End Index: 201
+
+NTLA Index: 87 End Index: 207
+
+NTNX Index: 106 End Index: 226
+
+NTRA Index: 87 End Index: 207
+
+NTRS Index: 76 End Index: 196
+
+NTST Index: 82 End Index: 202
+
+NUE Index: 77 End Index: 197
+
+NUS Index: 87 End Index: 207
+
+NUVA Index: 86 End Index: 206
+
+NUVB Index: 87 End Index: 207
+
+NVAX Index: 89 End Index: 209
+
+NVCR Index: 82 End Index: 202
+
+NVDA Index: 101 End Index: 221
+
+NVEE Index: 87 End Index: 207
 
 NVR Index: 80 End Index: 200
 
+NVRO Index: 86 End Index: 206
+
+NVST Index: 86 End Index: 206
+
+NVT Index: 83 End Index: 203
+
+NVTA Index: 90 End Index: 210
+
+NWBI Index: 79 End Index: 199
+
+NWE Index: 81 End Index: 201
+
 NWL Index: 83 End Index: 203
+
+NWN Index: 87 End Index: 207
+
+NWPX Index: 89 End Index: 209
 
 NWSA Index: 89 End Index: 209
 
+NX Index: 107 End Index: 227
+
+NXGN Index: 80 End Index: 200
+
+NXRT Index: 80 End Index: 200
+
 NXST Index: 87 End Index: 207
+
+NYCB Index: 81 End Index: 201
+
+NYMT Index: 85 End Index: 205
 
 NYT Index: 86 End Index: 206
 
+O Index: 86 End Index: 206
+
 OB Index: 92 End Index: 212
+
+OBNK Index: 81 End Index: 201
+
+OC Index: 81 End Index: 201
+
+OCFC Index: 82 End Index: 202
+
+OCGN Index: 88 End Index: 208
+
+OCUL Index: 89 End Index: 209
+
+ODFL Index: 81 End Index: 201
+
+OEC Index: 87 End Index: 207
+
+OFC Index: 82 End Index: 202
+
+OFG Index: 77 End Index: 197
+
+OFIX Index: 88 End Index: 208
+
+OGE Index: 87 End Index: 207
+
+OGS Index: 84 End Index: 204
+
+OHI Index: 84 End Index: 204
+
+OI Index: 85 End Index: 205
+
+OII Index: 81 End Index: 201
+
+OIS Index: 81 End Index: 201
+
+OKE Index: 89 End Index: 209
+
+OKTA Index: 106 End Index: 226
+
+OLED Index: 87 End Index: 207
 
 OLLI Index: 107 End Index: 227
 
+OLN Index: 82 End Index: 202
+
+OLP Index: 86 End Index: 206
+
+OM Index: 84 End Index: 204
+
 OMC Index: 75 End Index: 195
+
+OMCL Index: 87 End Index: 207
+
+OMF Index: 81 End Index: 201
+
+OMI Index: 86 End Index: 206
+
+ON Index: 84 End Index: 204
+
+ONB Index: 80 End Index: 200
+
+ONEM Index: 86 End Index: 206
+
+ONEW Index: 87 End Index: 207
+
+ONTF Index: 90 End Index: 210
+
+ONTO Index: 90 End Index: 210
+
+OPCH Index: 81 End Index: 201
+
+OPEN Index: 87 End Index: 207
+
+OPI Index: 82 End Index: 202
+
+OPK Index: 87 End Index: 207
+
+ORA Index: 86 End Index: 206
+
+ORCL Index: 51 End Index: 171
+
+ORGN Index: 86 End Index: 206
+
+ORI Index: 82 End Index: 202
 
 ORLY Index: 81 End Index: 201
 
+ORRF Index: 75 End Index: 195
+
+OSBC Index: 81 End Index: 201
+
+OSCR Index: 92 End Index: 212
+
+OSH Index: 85 End Index: 205
+
+OSIS Index: 97 End Index: 217
+
+OSK Index: 82 End Index: 202
+
+OSPN Index: 85 End Index: 205
+
 OSTK Index: 82 End Index: 202
+
+OSW Index: 86 End Index: 206
+
+OTIS Index: 81 End Index: 201
+
+OTTR Index: 84 End Index: 204
+
+OUT Index: 86 End Index: 206
+
+OVV Index: 86 End Index: 206
 
 OXM Index: 107 End Index: 227
 
+OXY Index: 85 End Index: 205
+
+OZK Index: 77 End Index: 197
+
+PACB Index: 86 End Index: 206
+
+PACW Index: 76 End Index: 196
+
 PAG Index: 81 End Index: 201
+
+PAHC Index: 101 End Index: 221
+
+PANW Index: 99 End Index: 219
+
+PAR Index: 90 End Index: 210
+
+PARR Index: 89 End Index: 209
+
+PATH Index: 109 End Index: 229
 
 PATK Index: 82 End Index: 202
 
+PAYA Index: 88 End Index: 208
+
+PAYC Index: 85 End Index: 205
+
+PAYX Index: 62 End Index: 182
+
+PB Index: 81 End Index: 201
+
+PBF Index: 82 End Index: 202
+
+PBH Index: 87 End Index: 207
+
+PCAR Index: 80 End Index: 200
+
+PCG Index: 82 End Index: 202
+
+PCH Index: 79 End Index: 199
+
+PCRX Index: 86 End Index: 206
+
+PCTY Index: 87 End Index: 207
+
+PCVX Index: 89 End Index: 209
+
+PD Index: 107 End Index: 227
+
+PDCE Index: 86 End Index: 206
+
+PDCO Index: 107 End Index: 227
+
+PDFS Index: 92 End Index: 212
+
+PDM Index: 81 End Index: 201
+
+PEAK Index: 85 End Index: 205
+
+PEB Index: 80 End Index: 200
+
+PEBO Index: 80 End Index: 200
+
+PEG Index: 85 End Index: 205
+
+PEGA Index: 81 End Index: 201
+
+PEN Index: 87 End Index: 207
+
 PENN Index: 87 End Index: 207
+
+PEP Index: 70 End Index: 190
+
+PETS Index: 79 End Index: 199
+
+PFBC Index: 76 End Index: 196
+
+PFE Index: 82 End Index: 202
+
+PFG Index: 89 End Index: 209
+
+PFGC Index: 96 End Index: 216
+
+PFHD Index: 82 End Index: 202
+
+PFS Index: 83 End Index: 203
+
+PFSI Index: 85 End Index: 205
+
+PG Index: 83 End Index: 203
+
+PGC Index: 83 End Index: 203
+
+PGEN Index: 89 End Index: 209
+
+PGNY Index: 87 End Index: 207
+
+PGR Index: 73 End Index: 193
+
+PGRE Index: 80 End Index: 200
+
+PGTI Index: 80 End Index: 200
+
+PH Index: 87 End Index: 207
 
 PHM Index: 80 End Index: 200
 
+PHR Index: 110 End Index: 230
+
+PI Index: 81 End Index: 201
+
 PII Index: 80 End Index: 200
+
+PINC Index: 95 End Index: 215
 
 PINS Index: 84 End Index: 204
 
+PIPR Index: 83 End Index: 203
+
+PJT Index: 80 End Index: 200
+
+PK Index: 86 End Index: 206
+
+PKG Index: 79 End Index: 199
+
+PKI Index: 84 End Index: 204
+
+PL Index: 113 End Index: 233
+
+PLAB Index: 105 End Index: 225
+
 PLAY Index: 110 End Index: 230
+
+PLCE Index: 96 End Index: 216
+
+PLD Index: 74 End Index: 194
+
+PLL Index: 87 End Index: 207
+
+PLMR Index: 86 End Index: 206
 
 PLNT Index: 90 End Index: 210
 
+PLOW Index: 84 End Index: 204
+
 PLTK Index: 87 End Index: 207
+
+PLTR Index: 89 End Index: 209
+
+PLUG Index: 90 End Index: 210
+
+PLUS Index: 86 End Index: 206
+
+PLXS Index: 81 End Index: 201
+
+PLYM Index: 86 End Index: 206
+
+PM Index: 77 End Index: 197
+
+PMT Index: 85 End Index: 205
+
+PMVP Index: 90 End Index: 210
+
+PNC Index: 73 End Index: 193
+
+PNFP Index: 75 End Index: 195
+
+PNM Index: 87 End Index: 207
+
+PNR Index: 80 End Index: 200
+
+PNTG Index: 89 End Index: 209
+
+PNW Index: 86 End Index: 206
+
+PODD Index: 87 End Index: 207
 
 POOL Index: 77 End Index: 197
 
+POR Index: 82 End Index: 202
+
 POSH Index: 92 End Index: 212
+
+POST Index: 87 End Index: 207
+
+POWI Index: 87 End Index: 207
+
+PPBI Index: 77 End Index: 197
+
+PPC Index: 81 End Index: 201
+
+PPG Index: 77 End Index: 197
+
+PPL Index: 86 End Index: 206
+
+PRA Index: 89 End Index: 209
+
+PRAA Index: 89 End Index: 209
 
 PRDO Index: 89 End Index: 209
 
+PRFT Index: 87 End Index: 207
+
+PRGO Index: 90 End Index: 210
+
+PRGS Index: 61 End Index: 181
+
+PRI Index: 89 End Index: 209
+
+PRIM Index: 89 End Index: 209
+
+PRK Index: 79 End Index: 199
+
+PRLB Index: 88 End Index: 208
+
+PRM Index: 88 End Index: 208
+
+PRMW Index: 92 End Index: 212
+
+PRO Index: 82 End Index: 202
+
+PRTA Index: 89 End Index: 209
+
+PRTS Index: 85 End Index: 205
+
+PRU Index: 85 End Index: 205
+
+PRVA Index: 92 End Index: 212
+
+PRVB Index: 87 End Index: 207
+
+PSA Index: 87 End Index: 207
+
+PSN Index: 86 End Index: 206
+
+PSTG Index: 106 End Index: 226
+
+PSTL Index: 85 End Index: 205
+
+PSX Index: 83 End Index: 203
+
+PTC Index: 81 End Index: 201
+
+PTCT Index: 87 End Index: 207
+
+PTEN Index: 81 End Index: 201
+
+PTGX Index: 87 End Index: 207
+
 PTON Index: 102 End Index: 222
+
+PTVE Index: 86 End Index: 206
 
 PUBM Index: 89 End Index: 209
 
+PUMP Index: 85 End Index: 205
+
 PVH Index: 105 End Index: 225
 
+PWR Index: 87 End Index: 207
+
+PXD Index: 85 End Index: 205
+
+PYPL Index: 85 End Index: 205
+
 PZZA Index: 87 End Index: 207
+
+QCOM Index: 81 End Index: 201
+
+QCRH Index: 80 End Index: 200
+
+QDEL Index: 87 End Index: 207
+
+QGEN Index: 80 End Index: 200
+
+QLYS Index: 89 End Index: 209
 
 QNST Index: 86 End Index: 206
 
 QRTEA Index: 88 End Index: 208
 
+QRVO Index: 86 End Index: 206
+
 QS Index: 81 End Index: 201
+
+QTRX Index: 89 End Index: 209
+
+QTWO Index: 86 End Index: 206
+
+R Index: 81 End Index: 201
+
+RAD Index: 58 End Index: 178
+
+RAMP Index: 87 End Index: 207
+
+RAPT Index: 92 End Index: 212
+
+RARE Index: 82 End Index: 202
+
+RBCAA Index: 78 End Index: 198
 
 RBLX Index: 90 End Index: 210
 
+RC Index: 87 End Index: 207
+
 RCII Index: 86 End Index: 206
+
+RCKT Index: 89 End Index: 209
 
 RCL Index: 82 End Index: 202
 
+RCM Index: 86 End Index: 206
+
+RCUS Index: 86 End Index: 206
+
+RDFN Index: 87 End Index: 207
+
+RDN Index: 84 End Index: 204
+
+RDNT Index: 90 End Index: 210
+
+RE Index: 81 End Index: 201
+
+REG Index: 87 End Index: 207
+
+REGN Index: 86 End Index: 206
+
+RELY Index: 86 End Index: 206
+
+REPL Index: 87 End Index: 207
+
+RES Index: 81 End Index: 201
+
+RETA Index: 89 End Index: 209
+
+REVG Index: 110 End Index: 230
+
+REX Index: 105 End Index: 225
+
+REXR Index: 76 End Index: 196
+
+REYN Index: 90 End Index: 210
+
+REZI Index: 87 End Index: 207
+
+RF Index: 78 End Index: 198
+
+RGA Index: 87 End Index: 207
+
+RGEN Index: 85 End Index: 205
+
+RGLD Index: 86 End Index: 206
+
+RGNX Index: 86 End Index: 206
+
+RGP Index: 82 End Index: 202
+
 RH Index: 111 End Index: 231
+
+RHI Index: 77 End Index: 197
+
+RHP Index: 84 End Index: 204
 
 RICK Index: 90 End Index: 210
 
+RIDE Index: 87 End Index: 207
+
+RIOT Index: 94 End Index: 214
+
+RJF Index: 81 End Index: 201
+
+RKT Index: 87 End Index: 207
+
 RL Index: 90 End Index: 210
+
+RLAY Index: 87 End Index: 207
+
+RLI Index: 76 End Index: 196
+
+RLJ Index: 87 End Index: 207
+
+RLMD Index: 92 End Index: 212
+
+RM Index: 86 End Index: 206
+
+RMAX Index: 87 End Index: 207
+
+RMBS Index: 84 End Index: 204
+
+RMD Index: 92 End Index: 212
+
+RMR Index: 87 End Index: 207
+
+RNA Index: 90 End Index: 210
+
+RNG Index: 85 End Index: 205
+
+RNR Index: 79 End Index: 199
+
+RNST Index: 80 End Index: 200
+
+ROAD Index: 88 End Index: 208
+
+ROCK Index: 86 End Index: 206
+
+ROG Index: 86 End Index: 206
+
+ROIC Index: 80 End Index: 200
+
+ROK Index: 81 End Index: 201
 
 ROKU Index: 82 End Index: 202
 
+ROL Index: 81 End Index: 201
+
+ROP Index: 78 End Index: 198
+
 ROST Index: 97 End Index: 217
+
+RPAY Index: 90 End Index: 210
+
+RPD Index: 86 End Index: 206
+
+RPM Index: 79 End Index: 199
+
+RPRX Index: 87 End Index: 207
+
+RPT Index: 86 End Index: 206
+
+RRC Index: 79 End Index: 199
 
 RRR Index: 90 End Index: 210
 
+RS Index: 82 End Index: 202
+
+RSG Index: 87 End Index: 207
+
+RSI Index: 87 End Index: 207
+
+RTX Index: 80 End Index: 200
+
+RUN Index: 86 End Index: 206
+
+RUSHA Index: 80 End Index: 200
+
+RUTH Index: 88 End Index: 208
+
 RVLV Index: 86 End Index: 206
+
+RVMD Index: 90 End Index: 210
+
+RVNC Index: 90 End Index: 210
+
+RWT Index: 82 End Index: 202
+
+RXDX Index: 92 End Index: 212
+
+RYAM Index: 86 End Index: 206
+
+RYI Index: 86 End Index: 206
+
+RYN Index: 86 End Index: 206
+
+S Index: 106 End Index: 226
+
+SABR Index: 85 End Index: 205
+
+SAFE Index: 86 End Index: 206
+
+SAGE Index: 85 End Index: 205
 
 SAH Index: 82 End Index: 202
 
+SAIA Index: 81 End Index: 201
+
+SAIC Index: 107 End Index: 227
+
+SAM Index: 77 End Index: 197
+
+SANA Index: 87 End Index: 207
+
+SANM Index: 84 End Index: 204
+
+SASR Index: 77 End Index: 197
+
 SATS Index: 87 End Index: 207
+
+SAVA Index: 86 End Index: 206
+
+SAVE Index: 90 End Index: 210
+
+SBAC Index: 84 End Index: 204
+
+SBCF Index: 82 End Index: 202
 
 SBH Index: 87 End Index: 207
 
+SBNY Index: 75 End Index: 195
+
+SBOW Index: 86 End Index: 206
+
+SBRA Index: 86 End Index: 206
+
+SBSI Index: 79 End Index: 199
+
 SBUX Index: 85 End Index: 205
+
+SCCO Index: 80 End Index: 200
+
+SCHN Index: 62 End Index: 182
+
+SCHW Index: 74 End Index: 194
 
 SCI Index: 85 End Index: 205
 
+SCL Index: 81 End Index: 201
+
+SCSC Index: 100 End Index: 220
+
+SCVL Index: 102 End Index: 222
+
+SDGR Index: 87 End Index: 207
+
 SEAS Index: 87 End Index: 207
+
+SEE Index: 85 End Index: 205
+
+SEER Index: 90 End Index: 210
+
+SEIC Index: 76 End Index: 196
+
+SEM Index: 87 End Index: 207
+
+SENS Index: 90 End Index: 210
+
+SFBS Index: 74 End Index: 194
+
+SFIX Index: 119 End Index: 239
+
+SFL Index: 96 End Index: 216
+
+SFM Index: 86 End Index: 206
+
+SFNC Index: 77 End Index: 197
+
+SFST Index: 80 End Index: 200
 
 SG Index: 90 End Index: 210
 
+SGEN Index: 82 End Index: 202
+
+SGFY Index: 86 End Index: 206
+
+SGH Index: 62 End Index: 182
+
+SGMO Index: 87 End Index: 207
+
+SGRY Index: 85 End Index: 205
+
+SHC Index: 87 End Index: 207
+
+SHLS Index: 94 End Index: 214
+
+SHO Index: 86 End Index: 206
+
 SHOO Index: 81 End Index: 201
+
+SHW Index: 81 End Index: 201
+
+SI Index: 75 End Index: 195
+
+SIBN Index: 89 End Index: 209
 
 SIG Index: 107 End Index: 227
 
+SIGI Index: 86 End Index: 206
+
+SILK Index: 80 End Index: 200
+
 SIRI Index: 82 End Index: 202
+
+SITC Index: 82 End Index: 202
+
+SITE Index: 86 End Index: 206
+
+SITM Index: 86 End Index: 206
+
+SIVB Index: 77 End Index: 197
 
 SIX Index: 92 End Index: 212
 
+SJM Index: 100 End Index: 220
+
+SJW Index: 81 End Index: 201
+
 SKLZ Index: 86 End Index: 206
+
+SKT Index: 89 End Index: 209
 
 SKX Index: 80 End Index: 200
 
 SKY Index: 85 End Index: 205
 
+SKYW Index: 82 End Index: 202
+
+SLAB Index: 81 End Index: 201
+
+SLB Index: 78 End Index: 198
+
+SLCA Index: 83 End Index: 203
+
+SLG Index: 76 End Index: 196
+
+SLGN Index: 81 End Index: 201
+
+SLM Index: 81 End Index: 201
+
+SLP Index: 66 End Index: 186
+
+SM Index: 86 End Index: 206
+
+SMAR Index: 107 End Index: 227
+
+SMBC Index: 79 End Index: 199
+
+SMBK Index: 79 End Index: 199
+
+SMCI Index: 90 End Index: 210
+
+SMG Index: 86 End Index: 206
+
+SMMF Index: 82 End Index: 202
+
 SMP Index: 86 End Index: 206
+
+SMPL Index: 63 End Index: 183
+
+SMRT Index: 92 End Index: 212
+
+SMTC Index: 106 End Index: 226
+
+SNA Index: 77 End Index: 197
 
 SNBR Index: 81 End Index: 201
 
+SNCY Index: 89 End Index: 209
+
+SNDR Index: 82 End Index: 202
+
+SNDX Index: 89 End Index: 209
+
+SNOW Index: 101 End Index: 221
+
+SNPS Index: 96 End Index: 216
+
+SNV Index: 77 End Index: 197
+
+SNX Index: 61 End Index: 181
+
+SO Index: 82 End Index: 202
+
+SOI Index: 84 End Index: 204
+
+SON Index: 77 End Index: 197
+
+SP Index: 86 End Index: 206
+
+SPB Index: 93 End Index: 213
+
+SPCE Index: 87 End Index: 207
+
+SPFI Index: 78 End Index: 198
+
+SPG Index: 84 End Index: 204
+
+SPGI Index: 85 End Index: 205
+
+SPLK Index: 101 End Index: 221
+
+SPNE Index: 85 End Index: 205
+
+SPNS Index: 86 End Index: 206
+
 SPOT Index: 81 End Index: 201
+
+SPR Index: 86 End Index: 206
+
+SPSC Index: 81 End Index: 201
+
+SPT Index: 85 End Index: 205
+
+SPTN Index: 97 End Index: 217
+
+SPWH Index: 107 End Index: 227
+
+SPWR Index: 85 End Index: 205
+
+SPXC Index: 87 End Index: 207
+
+SQ Index: 87 End Index: 207
+
+SR Index: 87 End Index: 207
+
+SRC Index: 86 End Index: 206
+
+SRCE Index: 77 End Index: 197
+
+SRCL Index: 88 End Index: 208
+
+SRDX Index: 81 End Index: 201
+
+SRE Index: 87 End Index: 207
 
 SRI Index: 86 End Index: 206
 
+SRNE Index: 94 End Index: 214
+
+SRPT Index: 85 End Index: 205
+
+SSB Index: 82 End Index: 202
+
+SSD Index: 79 End Index: 199
+
+SSNC Index: 81 End Index: 201
+
 SSP Index: 88 End Index: 208
+
+SSRM Index: 85 End Index: 205
 
 SSTK Index: 80 End Index: 200
 
+ST Index: 80 End Index: 200
+
+STAA Index: 91 End Index: 211
+
+STAG Index: 81 End Index: 201
+
+STAR Index: 87 End Index: 207
+
+STBA Index: 77 End Index: 197
+
+STE Index: 85 End Index: 205
+
+STEM Index: 87 End Index: 207
+
+STEP Index: 87 End Index: 207
+
+STKL Index: 91 End Index: 211
+
+STLD Index: 76 End Index: 196
+
+STNE Index: 97 End Index: 217
+
+STNG Index: 82 End Index: 202
+
+STOK Index: 89 End Index: 209
+
+STOR Index: 86 End Index: 206
+
+STR Index: 89 End Index: 209
+
 STRA Index: 81 End Index: 201
+
+STRC Index: 90 End Index: 210
+
+STRL Index: 84 End Index: 204
+
+STRO Index: 89 End Index: 209
+
+STT Index: 73 End Index: 193
+
+STWD Index: 87 End Index: 207
+
+STZ Index: 63 End Index: 183
+
+SUI Index: 79 End Index: 199
+
+SUM Index: 86 End Index: 206
+
+SUMO Index: 102 End Index: 222
+
+SUPN Index: 87 End Index: 207
+
+SVC Index: 87 End Index: 207
+
+SWAV Index: 89 End Index: 209
+
+SWCH Index: 89 End Index: 209
+
+SWI Index: 85 End Index: 205
+
+SWK Index: 82 End Index: 202
+
+SWKS Index: 87 End Index: 207
+
+SWN Index: 87 End Index: 207
+
+SWTX Index: 87 End Index: 207
+
+SWX Index: 90 End Index: 210
+
+SXC Index: 85 End Index: 205
+
+SXI Index: 87 End Index: 207
+
+SYBT Index: 81 End Index: 201
+
+SYF Index: 74 End Index: 194
+
+SYK Index: 80 End Index: 200
+
+SYNA Index: 87 End Index: 207
+
+SYNH Index: 85 End Index: 205
+
+SYY Index: 90 End Index: 210
 
 T Index: 77 End Index: 197
 
 TA Index: 84 End Index: 204
 
+TALO Index: 87 End Index: 207
+
+TAP Index: 85 End Index: 205
+
+TARS Index: 92 End Index: 212
+
+TBBK Index: 82 End Index: 202
+
+TBK Index: 76 End Index: 196
+
+TBPH Index: 87 End Index: 207
+
+TCBI Index: 77 End Index: 197
+
+TCBK Index: 81 End Index: 201
+
+TCDA Index: 89 End Index: 209
+
+TDC Index: 87 End Index: 207
+
+TDG Index: 90 End Index: 210
+
+TDOC Index: 81 End Index: 201
+
 TDS Index: 87 End Index: 207
 
+TDY Index: 81 End Index: 201
+
+TEAM Index: 87 End Index: 207
+
+TECH Index: 87 End Index: 207
+
 TEN Index: 87 End Index: 207
+
+TENB Index: 80 End Index: 200
+
+TER Index: 80 End Index: 200
+
+TEX Index: 85 End Index: 205
+
+TFC Index: 75 End Index: 195
+
+TFSL Index: 82 End Index: 202
+
+TFX Index: 82 End Index: 202
+
+TGH Index: 85 End Index: 205
+
+TGI Index: 86 End Index: 206
 
 TGNA Index: 89 End Index: 209
 
 TGT Index: 96 End Index: 216
 
-THO Index: 32588 End Index: 1910231296
+TGTX Index: 89 End Index: 209
+
+TH Index: 90 End Index: 210
+
+THC Index: 77 End Index: 197
+
+THFF Index: 80 End Index: 200
+
+THG Index: 85 End Index: 205
+
+THO Index: 32766 End Index: -36046960
+
+THR Index: 87 End Index: 207
 
 THRM Index: 85 End Index: 205
 
 THRY Index: 87 End Index: 207
 
+THS Index: 89 End Index: 209
+
+TIL Index: 93 End Index: 213
+
+TILE Index: 88 End Index: 208
+
+TITN Index: 102 End Index: 222
+
 TJX Index: 96 End Index: 216
+
+TKR Index: 82 End Index: 202
+
+TLS Index: 90 End Index: 210
+
+TMCI Index: 90 End Index: 210
+
+TMDX Index: 84 End Index: 204
 
 TMHC Index: 81 End Index: 201
 
+TMO Index: 82 End Index: 202
+
+TMP Index: 78 End Index: 198
+
+TMST Index: 87 End Index: 207
+
 TMUS Index: 81 End Index: 201
+
+TNDM Index: 86 End Index: 206
+
+TNET Index: 80 End Index: 200
+
+TNK Index: 87 End Index: 207
 
 TNL Index: 82 End Index: 202
 
 TOL Index: 100 End Index: 220
 
+TPB Index: 81 End Index: 201
+
 TPH Index: 77 End Index: 197
+
+TPIC Index: 86 End Index: 206
+
+TPL Index: 86 End Index: 206
 
 TPR Index: 97 End Index: 217
 
 TPX Index: 81 End Index: 201
 
+TRC Index: 86 End Index: 206
+
+TREE Index: 82 End Index: 202
+
+TREX Index: 89 End Index: 209
+
+TRGP Index: 87 End Index: 207
+
 TRIP Index: 87 End Index: 207
+
+TRMB Index: 88 End Index: 208
+
+TRMK Index: 80 End Index: 200
+
+TRN Index: 81 End Index: 201
+
+TRNO Index: 86 End Index: 206
+
+TRNS Index: 84 End Index: 204
+
+TROW Index: 82 End Index: 202
+
+TROX Index: 81 End Index: 201
+
+TRS Index: 82 End Index: 202
+
+TRST Index: 77 End Index: 197
+
+TRTN Index: 82 End Index: 202
+
+TRTX Index: 85 End Index: 205
+
+TRU Index: 80 End Index: 200
+
+TRUP Index: 86 End Index: 206
+
+TRV Index: 77 End Index: 197
 
 TSCO Index: 77 End Index: 197
 
+TSE Index: 89 End Index: 209
+
 TSLA Index: 76 End Index: 196
+
+TSN Index: 89 End Index: 209
+
+TSP Index: 85 End Index: 205
+
+TT Index: 86 End Index: 206
+
+TTC Index: 107 End Index: 227
+
+TTCF Index: 89 End Index: 209
 
 TTD Index: 90 End Index: 210
 
+TTEC Index: 90 End Index: 210
+
+TTEK Index: 86 End Index: 206
+
 TTGT Index: 87 End Index: 207
+
+TTI Index: 84 End Index: 204
+
+TTMI Index: 86 End Index: 206
 
 TTWO Index: 89 End Index: 209
 
+TUP Index: 86 End Index: 206
+
+TW Index: 86 End Index: 206
+
+TWI Index: 84 End Index: 204
+
+TWLO Index: 87 End Index: 207
+
+TWNK Index: 86 End Index: 206
+
+TWO Index: 86 End Index: 206
+
+TWOU Index: 82 End Index: 202
+
+TWST Index: 88 End Index: 208
+
+TXG Index: 89 End Index: 209
+
+TXN Index: 80 End Index: 200
+
 TXRH Index: 82 End Index: 202
+
+TXT Index: 82 End Index: 202
+
+TYL Index: 81 End Index: 201
+
+U Index: 90 End Index: 210
 
 UAA Index: 86 End Index: 206
 
+UAL Index: 76 End Index: 196
+
+UBA Index: 111 End Index: 231
+
+UBER Index: 85 End Index: 205
+
+UCBI Index: 75 End Index: 195
+
+UCTT Index: 82 End Index: 202
+
+UDR Index: 80 End Index: 200
+
+UE Index: 86 End Index: 206
+
+UEC Index: 32766 End Index: -36046960
+
+UFCS Index: 87 End Index: 207
+
+UFPI Index: 77 End Index: 197
+
+UGI Index: 86 End Index: 206
+
+UHAL Index: 86 End Index: 206
+
+UHS Index: 79 End Index: 199
+
+UI Index: 103 End Index: 223
+
+ULCC Index: 81 End Index: 201
+
+ULH Index: 82 End Index: 202
+
 ULTA Index: 102 End Index: 222
+
+UMBF Index: 80 End Index: 200
+
+UMH Index: 86 End Index: 206
+
+UMPQ Index: 76 End Index: 196
+
+UNF Index: 62 End Index: 182
+
+UNFI Index: 32766 End Index: -36046960
+
+UNH Index: 73 End Index: 193
+
+UNIT Index: 87 End Index: 207
+
+UNM Index: 85 End Index: 205
+
+UNP Index: 77 End Index: 197
+
+UNVR Index: 84 End Index: 204
+
+UPS Index: 80 End Index: 200
+
+UPST Index: 89 End Index: 209
+
+UPWK Index: 81 End Index: 201
 
 URBN Index: 100 End Index: 220
 
+URI Index: 81 End Index: 201
+
+USB Index: 73 End Index: 193
+
+USFD Index: 92 End Index: 212
+
+USNA Index: 80 End Index: 200
+
+USPH Index: 87 End Index: 207
+
+UTHR Index: 86 End Index: 206
+
+UTL Index: 85 End Index: 205
+
+UTZ Index: 92 End Index: 212
+
+UVE Index: 81 End Index: 201
+
+UVSP Index: 81 End Index: 201
+
+UWMC Index: 90 End Index: 210
+
+V Index: 80 End Index: 200
+
 VAC Index: 89 End Index: 209
+
+VBTX Index: 81 End Index: 201
 
 VC Index: 82 End Index: 202
 
+VCEL Index: 86 End Index: 206
+
+VCTR Index: 87 End Index: 207
+
+VCYT Index: 85 End Index: 205
+
+VECO Index: 89 End Index: 209
+
+VEEV Index: 106 End Index: 226
+
+VERU Index: 92 End Index: 212
+
 VFC Index: 82 End Index: 202
 
+VGR Index: 87 End Index: 207
+
+VIAV Index: 92 End Index: 212
+
+VICI Index: 81 End Index: 201
+
+VIRT Index: 82 End Index: 202
+
+VIVO Index: 88 End Index: 208
+
+VLO Index: 82 End Index: 202
+
+VLY Index: 82 End Index: 202
+
+VMC Index: 87 End Index: 207
+
+VMI Index: 76 End Index: 196
+
+VMW Index: 102 End Index: 222
+
+VNDA Index: 86 End Index: 206
+
+VNO Index: 84 End Index: 204
+
+VNT Index: 87 End Index: 207
+
+VOYA Index: 85 End Index: 205
+
+VRAY Index: 85 End Index: 205
+
+VREX Index: 85 End Index: 205
+
+VRNT Index: 110 End Index: 230
+
+VRRM Index: 86 End Index: 206
+
+VRSK Index: 85 End Index: 205
+
+VRSN Index: 82 End Index: 202
+
+VRT Index: 86 End Index: 206
+
+VRTS Index: 83 End Index: 203
+
+VRTV Index: 90 End Index: 210
+
+VRTX Index: 87 End Index: 207
+
+VSAT Index: 89 End Index: 209
+
+VSEC Index: 81 End Index: 201
+
+VSH Index: 85 End Index: 205
+
+VST Index: 88 End Index: 208
+
 VSTO Index: 81 End Index: 201
+
+VTNR Index: 90 End Index: 210
+
+VTR Index: 87 End Index: 207
+
+VUZI Index: 90 End Index: 210
+
+VVI Index: 87 End Index: 207
+
+VVV Index: 86 End Index: 206
+
+VXRT Index: 89 End Index: 209
 
 VZ Index: 78 End Index: 198
 
@@ -564,37 +4180,189 @@ VZIO Index: 91 End Index: 211
 
 W Index: 87 End Index: 207
 
+WAB Index: 88 End Index: 208
+
+WABC Index: 77 End Index: 197
+
+WAFD Index: 71 End Index: 191
+
+WAL Index: 77 End Index: 197
+
+WASH Index: 79 End Index: 199
+
+WAT Index: 85 End Index: 205
+
+WBA Index: 63 End Index: 183
+
+WBS Index: 77 End Index: 197
+
+WCC Index: 87 End Index: 207
+
+WD Index: 87 End Index: 207
+
+WDAY Index: 102 End Index: 222
+
+WDC Index: 88 End Index: 208
+
+WDFC Index: 67 End Index: 187
+
+WEC Index: 85 End Index: 205
+
+WELL Index: 90 End Index: 210
+
 WEN Index: 91 End Index: 211
+
+WERN Index: 86 End Index: 206
+
+WEX Index: 82 End Index: 202
+
+WFC Index: 73 End Index: 193
 
 WGO Index: 57 End Index: 177
 
 WH Index: 80 End Index: 200
 
+WHD Index: 87 End Index: 207
+
 WHR Index: 79 End Index: 199
 
 WING Index: 82 End Index: 202
 
+WIRE Index: 79 End Index: 199
+
+WISH Index: 90 End Index: 210
+
+WIX Index: 91 End Index: 211
+
+WK Index: 90 End Index: 210
+
+WKHS Index: 90 End Index: 210
+
+WLK Index: 85 End Index: 205
+
+WM Index: 81 End Index: 201
+
+WMB Index: 84 End Index: 204
+
+WMS Index: 87 End Index: 207
+
+WMT Index: 95 End Index: 215
+
+WNC Index: 81 End Index: 201
+
+WOLF Index: 96 End Index: 216
+
 WOOF Index: 101 End Index: 221
+
+WOR Index: 57 End Index: 177
 
 WOW Index: 88 End Index: 208
 
+WPC Index: 83 End Index: 203
+
+WRB Index: 77 End Index: 197
+
+WRK Index: 87 End Index: 207
+
+WRLD Index: 81 End Index: 201
+
+WSBC Index: 80 End Index: 200
+
+WSBF Index: 77 End Index: 197
+
+WSC Index: 86 End Index: 206
+
+WSFS Index: 79 End Index: 199
+
 WSM Index: 101 End Index: 221
+
+WSO Index: 80 End Index: 200
+
+WSR Index: 85 End Index: 205
+
+WST Index: 82 End Index: 202
+
+WTBA Index: 82 End Index: 202
+
+WTFC Index: 76 End Index: 196
+
+WTI Index: 89 End Index: 209
+
+WTRG Index: 86 End Index: 206
+
+WTS Index: 86 End Index: 206
+
+WTTR Index: 85 End Index: 205
+
+WTW Index: 82 End Index: 202
+
+WU Index: 86 End Index: 206
+
+WWD Index: 84 End Index: 204
 
 WWE Index: 95 End Index: 215
 
 WWW Index: 91 End Index: 211
 
+WY Index: 83 End Index: 203
+
 WYNN Index: 90 End Index: 210
 
+X Index: 82 End Index: 202
+
+XEL Index: 82 End Index: 202
+
+XERS Index: 91 End Index: 211
+
+XHR Index: 86 End Index: 206
+
+XNCR Index: 86 End Index: 206
+
+XOM Index: 83 End Index: 203
+
 XPEL Index: 90 End Index: 210
+
+XPO Index: 87 End Index: 207
+
+XRX Index: 80 End Index: 200
+
+XYL Index: 85 End Index: 205
 
 YELP Index: 87 End Index: 207
 
 YETI Index: 87 End Index: 207
 
+YEXT Index: 110 End Index: 230
+
+YMAB Index: 89 End Index: 209
+
+YORW Index: 87 End Index: 207
+
 YUM Index: 86 End Index: 206
+
+ZBH Index: 85 End Index: 205
+
+ZBRA Index: 85 End Index: 205
+
+ZEN Index: 82 End Index: 202
+
+ZG Index: 87 End Index: 207
 
 ZI Index: 84 End Index: 204
 
+ZION Index: 80 End Index: 200
+
 ZIP Index: 94 End Index: 214
+
+ZM Index: 99 End Index: 219
+
+ZNTL Index: 90 End Index: 210
+
+ZS Index: 111 End Index: 231
+
+ZTS Index: 87 End Index: 207
+
+ZUMZ Index: 111 End Index: 231
+
+ZUO Index: 101 End Index: 221
 

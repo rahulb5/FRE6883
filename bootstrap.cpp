@@ -19,9 +19,9 @@
 
 namespace fre
 {
-    Bootstrap::Bootstrap(Group* GroupPtr_, map<string, Stocks>* MapPtr_): GroupPtr(GroupPtr_),MapPtr(MapPtr_)
+    Bootstrap::Bootstrap(Group* GroupPtr_, map<string, Stocks>* MapPtr_, int n): GroupPtr(GroupPtr_),MapPtr(MapPtr_)
     {
-        T = (*MapPtr).begin()->second.GetN()*2;
+        T = 2*n;
              
     }
 
@@ -73,23 +73,25 @@ namespace fre
     
     Vector Bootstrap :: AbnormRet(string ticker) // To be unit tested - with integration 
     {
-        Vector AbnormReturn(T);
-        int start,end;
+        Vector AbnormReturn = ConstVector(0,T);
+        int start, end;
         start = (*MapPtr)[ticker].GetStartIndex();
         end = (*MapPtr)[ticker].GetEndIndex();
-        
-        if(end - start != T)
+        cout << start - end << endl;
+        if ((end - start) != T){
+            cout << "Corrupt asset:  " << start << "  " << end << endl;
+            
             return AbnormReturn;
-        
-        
+        }
+
         Vector R = (*MapPtr)[ticker].GetReturns();
         Vector Benchmark = (*MapPtr)["IWV"].GetReturns();
-        for(int i = 0 ; i < T; i++)
+        for(int i=0; i<T; i++)
         {
          //cout << "TIMEPERIOD " << i << endl;
          // cout << "start + i = " <<  start+i << "  " << R[start+1+i] << "  " << Benchmark[start+1+i] << endl;
-         AbnormReturn[i]  = R[i+start] - Benchmark[i+start];
-         // cout << AbnormReturn[i] << endl;cc
+         AbnormReturn[i] = R[start+i] - Benchmark[start+i];
+         // cout << AbnormReturn[i] << endl;
         }
         return AbnormReturn;
     }
@@ -146,16 +148,12 @@ namespace fre
                 Vector AAR_tmp(T), CAAR_tmp(T);
                 cout << "n = " << n << ", i = " << i << endl;
                 AAR_tmp = Cal_AAR(n);
-                cout << "Finished Cal_AAR" << endl;
                 Sum_AAR_tmp += AAR_tmp;
                 cout << Sum_AAR_tmp << endl;
                 AAR_STD[n] = AAR_STD[n] + AAR_tmp*AAR_tmp;
-                cout << "Assigned Avg_AAR, AAR_STD. " << endl; 
                 CAAR_tmp = cumsum(AAR_tmp);
                 Sum_CAAR_tmp += CAAR_tmp;
                 CAAR_STD[n] += CAAR_tmp*CAAR_tmp;
-                cout << "size of aar_temp : " << AAR_tmp.size() << endl;
-                cout << "size of Caar_temp : " << CAAR_tmp.size() << endl;
             }
             cout << Sum_AAR_tmp << endl;
             double one_by_MCN = (double)(1.0/MCN);
@@ -193,6 +191,61 @@ namespace fre
     Vector Bootstrap::GetCAAR_STD(int gr_index) const
     {
         return CAAR_STD[gr_index];
+    }
+    
+    void Bootstrap :: plotResults() 
+    {
+        
+        FILE *gnuplotPipe,*tempDataFile;
+        
+        int N = (int) T/2;
+        
+        const char *tempDataFileName1 = "Beat";
+        const char *tempDataFileName2 = "Meet";
+        const char *tempDataFileName3 = "Miss";
+        
+        //set up the gnu plot
+        gnuplotPipe = popen("/usr/bin/gnuplot", "w");
+        fprintf(gnuplotPipe,"set terminal png size 800,600; set output 'Results.png'\n");
+        fprintf(gnuplotPipe, "set grid\n");
+        fprintf(gnuplotPipe, "set title 'Avg CAAR for 3 groups'\n");
+        fprintf(gnuplotPipe, "set arrow from 0,graph(0,0) to 0,graph(1,1) nohead lc rgb 'red'\n");
+        fprintf(gnuplotPipe, "set xlabel 'Announcement Date'\nset ylabel 'Avg CAAR (%)'\n");
+        
+        if (gnuplotPipe) 
+        {
+            fprintf(gnuplotPipe,"plot \"%s\" with lines lw 3, \"%s\" with lines lw 3, \"%s\" with lines lw 3 \n",tempDataFileName1, tempDataFileName2, tempDataFileName3);
+            fflush(gnuplotPipe);
+            
+            //plot figure
+            tempDataFile = fopen(tempDataFileName1,"w");
+            for (int j = -N; j < N; j++)
+            {
+                fprintf(tempDataFile, "%i %lf\n", j, Avg_CAAR[0][j + N]);
+            }
+            fclose(tempDataFile);
+            
+            //plot figure 2
+            tempDataFile = fopen(tempDataFileName2,"w");
+            for (int j = -N; j < N; j++)
+            {
+                fprintf(tempDataFile, "%i %lf\n", j, Avg_CAAR[1][j + N]);
+            }
+            fclose(tempDataFile);
+            
+            //plot figure 3
+            tempDataFile = fopen(tempDataFileName3,"w");
+            for (int j = -N; j < N; j++)
+            {
+                fprintf(tempDataFile, "%i %lf\n", j, Avg_CAAR[2][j + N]);
+            }
+            fclose(tempDataFile);
+            
+        } 
+        else 
+        {        
+            printf("gnuplot not found...");    
+        }
     }
 }
 

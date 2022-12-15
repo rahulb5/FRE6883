@@ -20,69 +20,7 @@ using namespace std::chrono;
 using namespace fre;
 // vector output print function 
 
-void plotResults(double* xData, double* Beat, double* Meet, double* Miss, int dataSize, const char* title, const char* yLabel) {
-   
-    FILE *gnuplotPipe,*tempDataFile;
-    
-    const char *tempDataFileName1 = "Beat";
-    const char *tempDataFileName2 = "Meet";
-    const char *tempDataFileName3 = "Miss";
-    
-    double x,y, x2, y2, x3, y3;
-    int i;
-    
-    //set up the gnu plot
-    gnuplotPipe = popen("gnuplot -persist", "w");
-    fprintf(gnuplotPipe, "set grid\n");
-    fprintf(gnuplotPipe, "set title '%s'\n", title);
-    fprintf(gnuplotPipe, "set arrow from 0,graph(0,0) to 0,graph(1,1) nohead lc rgb 'red'\n");
-    fprintf(gnuplotPipe, "set xlabel 'Announcement Date'\nset ylabel '%s'\n", yLabel);
-    
-    if (gnuplotPipe) 
-    {
-        
-        fprintf(gnuplotPipe,"plot \"%s\" with lines, \"%s\" with lines, \"%s\" with lines\n",tempDataFileName1, tempDataFileName2, tempDataFileName3);
-        fflush(gnuplotPipe);
-        
-        //plot figure 1
-        tempDataFile = fopen(tempDataFileName1,"w");
-        for (i=0; i <= dataSize; i++) {
-            x = xData[i];
-            y = Beat[i];
-            fprintf(tempDataFile,"%lf %lf\n",x,y);
-        }
-        fclose(tempDataFile);
-        
-        //plot figure 2
-        tempDataFile = fopen(tempDataFileName2,"w");
-        for (i=0; i <= dataSize; i++) {
-            x2 = xData[i];
-            y2 = Meet[i];
-            fprintf(tempDataFile,"%lf %lf\n",x2,y2);
-        }
-        fclose(tempDataFile);
-        
-        //plot figure 3
-        tempDataFile = fopen(tempDataFileName3,"w");
-        for (i=0; i <= dataSize; i++) {
-            x3 = -xData[i];
-            y3 = Meet[i];
-            fprintf(tempDataFile,"%lf %lf\n",x3,y3);
-        }
-        fclose(tempDataFile);
-        
-        printf("press enter to continue...");
-        getchar();
-        remove(tempDataFileName1);
-        remove(tempDataFileName2);
-        remove(tempDataFileName3);
-        fprintf(gnuplotPipe,"exit \n");
-    } 
-    else 
-    {        
-        printf("gnuplot not found...");    
-    }
-} 
+
 void print_v(vector<double> v)
 {
     auto itr = v.begin();
@@ -310,7 +248,7 @@ int main()
             }
             case 3:
             {
-                Bootstrap boot(&gobj, &GlobalStockMap);
+                Bootstrap boot(&gobj, &GlobalStockMap, N);
                 boot.RunBootstrap();
                 cout << "Bootstrap object created" << endl;
                 if(N>=60 && N<=90)
@@ -429,34 +367,44 @@ int main()
             {   
                 if(N>=60 && N<=90)
                 {
+                    /*
                     cout<<"CAAR for all 3 groups "<<endl;
                     //object.plot
+                    
+                    Vector g1 = GlobalBoot.GetCAAR(0);
+                    Vector g2 = GlobalBoot.GetCAAR(1);
+                    Vector g3 = GlobalBoot.GetCAAR(2);
+                    
                     int i = 0;
-                    int nIntervals = 100;
-                    double intervalSize = 1.0;
-                    double stepSize = intervalSize/nIntervals;
+                    int nIntervals = integer1*2;
+                    
+                    cout<<"Plot size: "<<nIntervals<<endl;
+
+                    
                     double* xData = (double*) malloc((nIntervals+1)*sizeof(double));
                     double* yData = (double*) malloc((nIntervals+1)*sizeof(double));
                     double* yData2 = (double*) malloc((nIntervals+1)*sizeof(double));
-                    xData[0] = 0.0;
-                    double x0 = 0.0;
+                    double* yData3 = (double*) malloc((nIntervals+1)*sizeof(double));
+                    
                     for (i = 0; i < nIntervals; i++) {
-                        x0 = xData[i];
-                        xData[i+1] = x0 + stepSize;
+                        xData[i] = i-integer1;
                     }
                     for (i = 0; i <= nIntervals; i++) {
-                        x0 = xData[i];
-                        yData[i] = sin(x0)*cos(10*x0);
+                        yData[i] = g1[i];
                     }
                     for (i = 0; i <= nIntervals; i++) {
-                        x0 = xData[i];
-                        yData2[i] = sin(x0)*cos(5*x0);
+                        yData2[i] = g2[i];
+                    }
+                    for (i = 0; i <= nIntervals; i++) {
+                        yData3[i] = g3[i];
                     }
                     
                     const char *title = "Avg CAAR for 3 groups";
                     const char *yLabel = "Avg CAAR(%)";
                         
-                    plotResults(xData, yData, yData2, yData2, nIntervals, title, yLabel);
+                    plotResults(xData, yData, yData2, yData3, nIntervals, title, yLabel);
+                    */
+                    GlobalBoot.plotResults();
                     
                 }
                 else

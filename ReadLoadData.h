@@ -23,7 +23,7 @@ namespace fre
     
     string FormatDate(string Date);
     
-    
+    void plotResults(double* xData, double* Beat, double* Meet, double* Miss, int dataSize, const char* title, const char* yLabel);
     void LoadEarnings(map<string, Stocks> &data);
     
     int write_data(void* ptr, int size, int nmemb, void* data);
